@@ -23,6 +23,7 @@ To import the requisition report into SQL, the file format must be in a CSV form
 
 
 Sample Requisition Report exported into Excel Worksheet Format from Workday below.
+
 <img width="1035" alt="Sample of Original Report Pulled from Workday" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/ab7a081b-2a0b-4739-a27a-1ea38eeb1ee9">
  
 The issues with the provided original Excel Worksheet File after I pulled a Requisition Report from Workday
