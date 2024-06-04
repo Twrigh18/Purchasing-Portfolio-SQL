@@ -74,9 +74,11 @@ This was the hardest part of learning SQL. I googled a lot. But I am happy that 
 ## Querying
 I will be using queries to answer questions. I have created some questions and will answer questions using queries.
 
-## What is the Total Number of Requisitions Overall ?
- 
+## What is the Total Number of Requisitions Overall ? 
+<img width="914" alt="Requisitions were processed overall since 2018 " src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/acd60545-7741-4800-9114-0ae196d9eb1e">
+
 In the entire purchasing department, 436971 requisitions have been created since 2018. That is a lot of requisitions.
+
 ## What is the Total Amounts of All Requisitions Overall?
  
 The amount from all the requisitions adds up to a total of $4,219,119,102.87. So, all departments at ASU spent a total of around 4 billion dollars since the start of fiscal year 2018.
