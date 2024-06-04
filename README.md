@@ -12,6 +12,7 @@ Note: It is encouraged to zoom into the screenshots
 ## Pulling and Cleaning the Data
 I pulled a report from Workday called Find Requisitions. The result is all the requisition information from 6/1/2018 to 12/31/2023 is presented. That requisition information gets exported into excel in a Excel Worksheet format.
 To import the requisition report into SQL, the file format must be in a CSV format. To import CSV files, there are some criteria that must be met in order for the CSV files to be imported to SQL Databases successfully
+
 1.	A Column that uniquely identifies each row
 2.	Column Names must have no spaces
 3.	Date format must be in this format YYYY-MM-DD
@@ -201,23 +202,23 @@ There are 4875 Different Requesters purchasing dealt with since 2018. They repre
 
 ## What is the Total Number of Requisitions per year since 2018 ?
  
-2018 – 41652 Requisitions
-2019 – 85793 Requisitions
-2020 – 66905 Requisitions
-2021 – 74310 Requisitions
-2022 – 82086 Requisitions
-2023 – 86227 Requisitions
+* 2018 – 41652 Requisitions
+* 2019 – 85793 Requisitions
+* 2020 – 66905 Requisitions
+* 2021 – 74310 Requisitions
+* 2022 – 82086 Requisitions
+* 2023 – 86227 Requisitions
 
 There is a trend with the number of requisitions processes yearly. 2018 is when Workday was first implemented so the number of requisitions is the lowest for that reason. 2019 is the year where the requisitions were processed the most pre pandemic. There were a lot of students enrolled so departments have the funding to spend their money. Purchasing was busy during that year. 2020 is where everything changed. 2020 has the lowest number of requisitions processed. The reason for that huge decline from 2019 is that the pandemic had occurred. ASU had to basically go online, and the university was almost shut down in many ways. Campus was very empty. Because there were not as many students on campus, departments did not really spend as much of their money. As the pandemic started to subside, there number of requisitions started to increase every single year. 2023 has the most requisitions processed. This is the year where the university felt normal before the pandemic.
 
 ## What is the Total Amount of all Requisitions per year since 2018 ?
  
-2018 – $348,200,512.82 All Departments spent around 348 million dollars this year in 2018.
-2019 – $727,505,051.34 All Departments spent around 727 million dollars this year in 2019.
-2020 – $579,614,994.83 All Departments spent around 580 million dollars this year in 2020.
-2021 – $674,275,522.28 All Departments spent around 674 million dollars this year in 2021.
-2022 – $840,200,614.57 All Departments spent around 840 million dollars this year in 2022.
-2023 – $1,049,170,380.03 All Departments spent around 1 billion dollars this year in 2023.
+* 2018 – $348,200,512.82 All Departments spent around 348 million dollars this year in 2018.
+* 2019 – $727,505,051.34 All Departments spent around 727 million dollars this year in 2019.
+* 2020 – $579,614,994.83 All Departments spent around 580 million dollars this year in 2020.
+* 2021 – $674,275,522.28 All Departments spent around 674 million dollars this year in 2021.
+* 2022 – $840,200,614.57 All Departments spent around 840 million dollars this year in 2022.
+* 2023 – $1,049,170,380.03 All Departments spent around 1 billion dollars this year in 2023.
 
 The trend is just the same as the number of requisitions departments submitted and processed. Department spends lots of money until the pandemic hits in 2020 where ASU is kind of shut down. As the pandemic ends, the spending slowly increases and now in 2023, All departments spend over 1 billion dollars on anything for ASU. I predict all departments will spend even more money in the future.
 Conclusion
