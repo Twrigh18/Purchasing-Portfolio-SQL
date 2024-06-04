@@ -175,16 +175,6 @@ Departments have submitted around 309,641 requisitions totaling around $2,137,78
  
 Departments have submitted around 30,087 requisitions totaling around $593,431,625.50 that uses the requisition type of Technology. Technology operates the same way as using Goods and Services. What makes this requisition type different is that these require security review so these will be provided in requisition before or after approval but are provided before the orders need payment. Pay an invoice of technology purchases has a security review alert so the orders get counted under the requisition type of Pay an Invoice. Sometimes these orders will have suppliers wanting subscription agreements signed so the purchasing department must be very careful with what they agree to because their amounts are more, they have terms for 1 to the max of 5 years and many more supplier terms and conditions. Subscription contracts are the contracts that purchasing must be the most careful on.
 
-
-
-
-
-
-
-
-
-
-
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Pay an Invoice ?
  <img width="1097" alt="Total Number of Requisitions that used Pay an Invoice" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/d3990f65-b093-4ac6-b370-0a30b1ccbfe9">
 
@@ -218,19 +208,10 @@ There are 17 different types of Requisition type is displayed in a table
  
 The results match some of the questions of finding how many requisitions were processed using different Requisition Types. The Top 3 Requisition Types by count are Goods and Services, Pay an Invoice, and Technology. My team strategic partnerships and the sourcing team deals with these requisition types the most on a daily basis. MRO team deals with non-stock facilities and inventory replenishment. Chemical and Specialty Gas goes to materials management. Construction team deals with the rest and those require different documentations and requirements based on the purchase
 
-
-
-
-
 ## What are the Top 17 Requisition Type Total Amounts from Largest to Smallest with Their Total Number of Requisitions Included not in Order ?
 <img width="914" alt="Different Req types total number of reqs and amount with amount in descending order" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/ca4e2b82-1e9f-4007-a18d-15aaac047697">
  
 Goods and Services is on the top since this a requisition type department should always use to generate PO before using Pay in Invoice to pay for the purchase. Many requisition types start appearing near the top that deal with construction due to the nature of their purchases. These purchases absolutely need a Purchase Order generated in order to protect the departments especially with how expensive these purchases order.
-
-
-
-
-
 
 ## What are the Top Requestors by the Total Number of Requisitions Submitted using HAVING clause?
 <img width="580" alt="Top Number of Requestors and the number of requstions they submitted" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/ae6803d0-2fc5-48e4-94ce-c749a590bda5">
@@ -371,3 +352,25 @@ WHERE
  AND SourcingBuyer = 'Timothy Wright';
 64
 
+## What is the Total Number of Requisitions I did per year since I started at ASU ?
+SELECT 
+ STRFTIME('%Y', RequisitionDate) AS Year, COUNT(*) as [Total Number of Requisitions]
+FROM 
+ Requisitions
+WHERE SourcingBuyer = 'Timothy Wright'
+GROUP BY 
+ STRFTIME('%Y', RequisitionDate);
+
+2022- 2069 2023 4068
+## What is the Total Amount of all Requisitions I did per year  since I started at ASU ?
+SELECT 
+ STRFTIME('%Y', RequisitionDate) AS Year, 
+ round(SUM(TotalAmount),2) as [Total Requisitions Amount]
+FROM 
+ Requisitions
+WHERE SourcingBuyer = 'Timothy Wright'
+GROUP BY 
+ STRFTIME('%Y', RequisitionDate);
+2022 - 5660838.79   2023 - 25666941.04
+
+# Conclusion
