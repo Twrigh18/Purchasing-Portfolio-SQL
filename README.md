@@ -111,7 +111,8 @@ How Many Requisitions were Processed Over $100,000 ?
  
 All Departments submitted 4,194 requisitions that were over $100,000. These requisitions require suppliers that have formal solicitations or have a sole source. Departments really have to check if an order is going to go over $100,000
 
-## What Is the Total Amount of All Requisitions Over $100,000 ?
+## What Is the Total Amount of All Requisitions Over $100,000 ?<img width="1172" alt="Total Number of all Requisitions over $100,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/861a3067-fd76-4068-84b6-51f691a4751e">
+
  
 Departments spent around $3,045,686,758.52 on orders that are over $100,000.
 How Many Requisitions were Processed Over $1,000,000 ?
@@ -125,10 +126,13 @@ What is the Requisition Lowest Amount ?
  
 The lowest amount on a requisition is -11.96 or around -$12 dollars. This means that the requisition had so many discounts to the point where the supplier gave back the department 12 dollars.
 ## What Kind of Requisition Is the Lowest Amount ?
+<img width="934" alt="Requisition Lowest Amount" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/79eddcf6-c3ea-4ed2-96c6-5f98c6cb4091">
+
  
 This is a pay an invoice requisition. From pulling this up in Workday. This requisition is textbook purchases for student athletes each team like Football Basketball Baseball etc. for SDA. There were around 13 discounts out of 21 different teams that had textbook purchases for student athletes that made the total on the requisition around -12 dollars. Note this is the only requisition with a negative amount.
 ## What Is the Requisition Highest Amount ?
- 
+ <img width="913" alt="Requisition Highest Amount" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/5a46b729-13c2-473d-9118-3a582db3a5d2">
+
 The highest amount on a requisition is $139,066,673. That is a lot of money for a purchase. I am guessing this is a construction purchase
 ## What Kind of Requisition Is the Highest Amount ?
  
