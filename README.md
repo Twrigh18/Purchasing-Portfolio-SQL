@@ -266,37 +266,108 @@ Since there is no pandemic now, I believe ASU will increase the enrollment. More
 # The Requstions I did since starting at ASU in 2022
 
 ## What is the Total Amounts of All Requisitions I did Overall?
+SELECT 
+ round(SUM(TotalAmount),2)
+FROM
+ Requisitions
+WHERE
+ SourcingBuyer = 'Timothy Wright';
 
+ 31327779.83
 ## How Many Requisitions I did that Were Processed Under $25,000 ?
+SELECT
+ *
+FROM
+ Requisitions
+WHERE
+ TotalAmount < '25000.99' AND SourcingBuyer = 'Timothy Wright';
 5847
 ## What is The Total Amount of All Requisitions I did Under $25,000 ?
 
 ## How Many Requisitions I did  that were Processed Over $25,000 ?
+SELECT
+ *
+FROM
+ Requisitions
+WHERE
+ TotalAmount > '25001' AND SourcingBuyer = 'Timothy Wright';
 
+290
 ## What Is the Total Amount of All Requisitions I did Over $25,000 ?
 
-## How Many Requisitions I did that were Processed between $25,000 and $100,000 ?
 
 ## How Many Requisitions I did  that were Processed Over $100,000 ?
+SELECT
+ *
+FROM
+ Requisitions
+WHERE
+ TotalAmount > '100000' AND SourcingBuyer = 'Timothy Wright';
 
+ 0
 ## What Is the Total Amount of All Requisitions I did Over $100,000 ?
 
 ## What is the Requisition Lowest Amount I did?
+SELECT
+ MIN(TotalAmount) AS [Requisition Lowest Amount]
+FROM
+ Requisitions
+WHERE
+ SourcingBuyer = 'Timothy Wright';
 
-## What Kind of Requisition Is the Lowest Amount I did?
+zero dollars
 
 ## What Is the Requisition Highest Amount I did?
-
-## What Kind of Requisition Is the Highest Amount I did?
+SELECT
+ MAX(TotalAmount) AS [Requisition Highest Amount]
+FROM
+ Requisitions
+WHERE
+ SourcingBuyer = 'Timothy Wright';
+ 
+99934.84
 
 ## What is the Average Total Amount of Requisitions Overall I did ?
+SELECT 
+ round(AVG(TotalAmount),2) AS [Average Total Amount of Requisitions]
+FROM
+ Requisitions
+WHERE
+ SourcingBuyer = 'Timothy Wright';
 
+5104.74
 ## How Many Requisitions and Their Total Amounts I did Used the Requisition Type of Goods and Services ?
-
+SELECT
+ *
+FROM
+ Requisitions
+WHERE
+ RequisitionType = '1.Goods and Services' AND SourcingBuyer = 'Timothy Wright';
+892
 ## How Many Requisitions and Their Total Amounts I did Used the Requisition Type of Technology ?
-
+SELECT
+ *
+FROM
+ Requisitions
+WHERE
+ RequisitionType = 'Technology' AND SourcingBuyer = 'Timothy Wright';
+170
 ## How Many Requisitions and Their Total Amounts I did Used the Requisition Type of Pay an Invoice ?
-
+SELECT
+ *
+FROM
+ Requisitions
+WHERE
+ RequisitionType = 'Pay an Invoice' AND SourcingBuyer = 'Timothy Wright';
+5011
 ## How Many Requisitions and Their Total Amounts I did Used Many Requisition Types Instead of the Ones Mentioned Above ?
-
+SELECT
+ *
+FROM
+ Requisitions
+WHERE
+ RequisitionType 
+ NOT IN ('1.Goods and Services', 'Technology', 'Pay an Invoice') 
+ AND SourcingBuyer = 'Timothy Wright';
+64
 
