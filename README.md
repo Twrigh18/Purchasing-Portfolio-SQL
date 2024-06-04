@@ -23,6 +23,7 @@ To import the requisition report into SQL, the file format must be in a CSV form
 
 
 Sample Requisition Report exported into Excel Worksheet Format from Workday below.
+<img width="1035" alt="Sample of Original Report Pulled from Workday" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/ab7a081b-2a0b-4739-a27a-1ea38eeb1ee9">
  
 The issues with the provided original Excel Worksheet File after I pulled a Requisition Report from Workday
 1.	There is no single column that unique identifies each row
@@ -42,31 +43,39 @@ For the Duplicate Column for Requisition Number: I deleted I highlighted the fir
 The report criteria and the date before and after and the dates: I highlighted the first five rows that contain those report criteria and the before and after dates and selected delete and those rows disappear.
 After I did the data cleaning, I saved the Excel Worksheet File.
 End Result of the Requisition Report in Excel after Data Cleaning in Excel Worksheet Format
- 
+ <img width="1056" alt="Sample of Original Report Pulled from Workday after cleaning" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/d59d5186-2cc2-4ee5-beae-505307d83d51">
+
 
 The final step is to convert the Excel Worksheet into CSV UTF-8. I went and saved the Excel Worksheet as CSV UTF-8. I recommend after the file is converted is to leave it alone. I did not use the CSV only because there will be issues with successfully importing the csv file. If you need to make changes, do the changes before convert the excel file to any type of CSV format
 End Result of the Requisition Report as a CSV UTF-8 File
+<img width="982" alt="Sample of Original Report Pulled from Workday after cleaning and coverted to CSV UTF 8" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/838a7c9f-427c-4de1-b175-64dbf52ce891">
  
 This file will be used to import into the SQL Database
 
 ## Importing the data
 SQL Lite is being used for this report. This is what SQLite looks like when it is opened.
+<img width="956" alt="SQLlite Front Page" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/170907e0-2d4f-4a54-9045-7774d0d9419d">
  
 I created a new database. It is an SQL File. I named it Reqs and saved it somewhere safe where I can access in on my computer. Example I choose the documents and new folder and saved my database file as an SQLite Database File.
- 
+<img width="588" alt="New Database File Save" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/e5a385f8-743f-4d77-bd1d-508e2990d7e6">
+
 
 After I saved the file. The edit table definition pops up. I copied the column names in exact order the same way as it shows up in the CSV UTF 8 File. I named the table Requisitions. I added a primary key and created certain data types that can help with right data being sorted when I start querying. 
+<img width="526" alt="Edit Table with Data Types Needed" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/ffb0f9d5-a25e-48ea-8b76-c746257650a0">
 
 End Result of the Requisition Table after being created
  
 Now it is time to import. I went to the file tab in SQLite and selected import and Table from CSV file will appear so that will be selected.
+<img width="873" alt="File Import option for CSV" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/8dc09b36-bfdd-4e74-9b71-343186bff8b8">
  
 The Import CSV file option pops up. I just changed the table name to requisitions the same as originally created. I left everything alone
+<img width="1078" alt="Import CSV File Page after selected import CSV from table" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/9f8b8b6f-988a-4d14-b0ea-46ffbe7f768c">
  
 Then I selected the requisitions CSV UTF-8 File that I have saved somewhere. A warning pops there is already at table name. Click yes to all. This will ensure a successful import. The data is now successfully imported in less than 5 seconds.
 Final Step is to test the query. I used the SELECT * FROM Requisitions; command. It was a success.
 
- 
+ <img width="1621" alt="First Query Testing" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/80fa6b86-c095-4cd5-8c41-c875ea6773a0">
+
 
 This was the hardest part of learning SQL. I googled a lot. But I am happy that I was able to pull this off. Once done this process is very rewarding and made me become better at creating and understanding SQL and other databases in general.
 
