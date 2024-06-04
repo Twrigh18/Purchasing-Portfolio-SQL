@@ -80,15 +80,23 @@ I will be using queries to answer questions. I have created some questions and w
 In the entire purchasing department, 436971 requisitions have been created since 2018. That is a lot of requisitions.
 
 ## What is the Total Amounts of All Requisitions Overall?
+<img width="946" alt="Total amount of all the requisitions that were processed " src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/0ac38ed0-d184-4ee1-a544-6c9cd3ec3e5b">
+
  
 The amount from all the requisitions adds up to a total of $4,219,119,102.87. So, all departments at ASU spent a total of around 4 billion dollars since the start of fiscal year 2018.
 ## How Many Requisitions Were Processed Under $25,000 ?
+<img width="1145" alt="Total Number of all Requisitions under $25,000 " src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/b957d8a6-c014-4bda-b5ff-da7db745a189">
+
  
 All Departments submitted 421,945 requisitions that were under $25,000. These requisitions are easy in that they need less documentation so these can be processed very quickly. These take up most of the requisitions overall.
 ## What is The Total Amount of All Requisitions Under $25,000 ?
+<img width="802" alt="Total Amount of All Requisitions under $25,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/160911f7-8809-4f7e-aae6-5198af806eea">
+
  
 Departments spent around $638,388,640.23 on orders that are under $25,000.
 ## How Many Requisitions were Processed Over $25,000 ?
+<img width="1184" alt="Total Number of all Requisitions over $25,000 " src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/585e00be-ee23-4dd0-930a-d4c5ee20f32c">
+
  
 All Departments submitted 15,026 requisitions that were over $25,000. Do not let the small number fool you. These orders require more documentation, so these require us to wait for the department to reach back out for the required documentation. These even take longer if the requisitions use federal funding. These take longer to do.
 ## What Is the Total Amount of All Requisitions Over $25,000 ?
