@@ -1,5 +1,8 @@
 # Purchasing-Portfolio-SQL
 
+<img width="1202" alt="Requistions " src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/6e158e97-b661-415a-9e73-cdb13eb00bc9">
+
+
 ## Procurement Specialist Role
 My role title is a Strategic Partnerships Procurement Specialist. My role is to assist departments with purchasing goods and services. I will answer department emails on purchasing related questions and either answer them or guide them to the right person and department. My main job is to process requisitions. Requisition means a request to order the goods or services from the department.
 The Job of the purchasing department is to for departments to provide documentation that their purchase complies with the law and the purchasing manual. That is what a procurement method is, and we try to find a procurement method for a department’s purchase. If the departments provide the right documentation, we use a procurement method and then we generate POs for the supplier and have terms and conditions in which the supplier accepts. This role is basically purchasing compliance. There is a Construction and Sourcing team. Before the purchasing reorganization before fiscal year 2023 the teams within Purchasing were 
