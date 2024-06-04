@@ -105,7 +105,8 @@ Departments spent around $3,580,730,462.64 on orders that are over $25,000.
 
 
 ## How Many Requisitions were Processed between $25,000 and $100,000 ?
- 
+ <img width="1166" alt="Total Amount of All Requisitions bwt" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/95cceeab-d3e6-4234-ae05-9a0f61ee2ebd">
+
 All Departments submitted 10902 requisitions that were between $25,000 and $100,000. Strategic Partnerships always process these orders, and these are orders that we should always learn and get better at these. They require more documentation and waiting so these most of the time cannot be processed right away so there is a lot of waiting. These are the types of requisitions Strategic Partnerships always prioritizes. MRO teams sometimes do these amounts. The sourcing team never do this amount since they are over $100,000 and rarely construction team process these requisitions.
 How Many Requisitions were Processed Over $100,000 ?
  
@@ -135,7 +136,8 @@ This is a pay an invoice requisition. From pulling this up in Workday. This requ
 
 The highest amount on a requisition is $139,066,673. That is a lot of money for a purchase. I am guessing this is a construction purchase
 ## What Kind of Requisition Is the Highest Amount ?
- 
+ <img width="1033" alt="Requisition Highest Amount Type" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/2f58c261-4049-4ed4-9ad6-8adce9ce973b">
+
 This requisition is for construction services for the new building lab called Interdisciplinary Science and Technology Building (ISTB 12) at the Polytechnic campus. There is probably lots of fancy lab equipment that needs to be installed. Anything with science orders is more expensive.
 ## What is the Average Total Amount of Requisitions Overall ?
  
@@ -210,11 +212,12 @@ Goods and Services is on the top since this a requisition type department should
 
 
 
-What are the Top Requestors by the Total Number of Requisitions Submitted using HAVING clause?
+## What are the Top Requestors by the Total Number of Requisitions Submitted using HAVING clause?
  
 There are 4875 Different Requesters purchasing dealt with since 2018. They represent different departments across ASU such as SDA, President’s Office, Ira Fulton, WP Carey, Mary Lou, CPMG, Materials Management and many more. The top one works in Materials Management. It is some materials management, but the rest are a variety of departments. Purchasing knows these names by repetition since their titles do not appear in Workday. We must search for their emails personally. It is cool to see what type of order different departments do.
 
 ## What is the Total Number of Requisitions per year since 2018 ?
+<img width="777" alt="Total Number of all Requisitions per year since 2018" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/e1443796-1286-4c3f-9794-863157e77981">
  
 * 2018 – 41652 Requisitions
 * 2019 – 85793 Requisitions
@@ -226,6 +229,7 @@ There are 4875 Different Requesters purchasing dealt with since 2018. They repre
 There is a trend with the number of requisitions processes yearly. 2018 is when Workday was first implemented so the number of requisitions is the lowest for that reason. 2019 is the year where the requisitions were processed the most pre pandemic. There were a lot of students enrolled so departments have the funding to spend their money. Purchasing was busy during that year. 2020 is where everything changed. 2020 has the lowest number of requisitions processed. The reason for that huge decline from 2019 is that the pandemic had occurred. ASU had to basically go online, and the university was almost shut down in many ways. Campus was very empty. Because there were not as many students on campus, departments did not really spend as much of their money. As the pandemic started to subside, there number of requisitions started to increase every single year. 2023 has the most requisitions processed. This is the year where the university felt normal before the pandemic.
 
 ## What is the Total Amount of all Requisitions per year since 2018 ?
+<img width="791" alt="Total Amount of all Requisitions per year since 2018" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/f5d1ea91-710a-4329-8816-8108f091ab00">
  
 * 2018 – $348,200,512.82 All Departments spent around 348 million dollars this year in 2018.
 * 2019 – $727,505,051.34 All Departments spent around 727 million dollars this year in 2019.
