@@ -262,3 +262,41 @@ There is a trend with the number of requisitions processes yearly. 2018 is when 
 The trend is just the same as the number of requisitions departments submitted and processed. Department spends lots of money until the pandemic hits in 2020 where ASU is kind of shut down. As the pandemic ends, the spending slowly increases and now in 2023, All departments spend over 1 billion dollars on anything for ASU. I predict all departments will spend even more money in the future.
 Conclusion
 Since there is no pandemic now, I believe ASU will increase the enrollment. More enrollment means more tuition means more money, meaning departments must purchase things that will go to the purchasing team that will keep us busy. I predict that more requisitions will be processed in 2024 than this year 2023. I believe there will be more Purchase Orders issued in 2024 than 2023. I also believe that departments will spend even more money on Goods/Services, Scientific, Technology, and Construction purchases. I predict every year purchases will increase but more slowly in the long run.
+
+# The Requstions I did since starting at ASU in 2022
+
+## What is the Total Amounts of All Requisitions I did Overall?
+
+## How Many Requisitions I did that Were Processed Under $25,000 ?
+5847
+## What is The Total Amount of All Requisitions I did Under $25,000 ?
+
+## How Many Requisitions I did  that were Processed Over $25,000 ?
+
+## What Is the Total Amount of All Requisitions I did Over $25,000 ?
+
+## How Many Requisitions I did that were Processed between $25,000 and $100,000 ?
+
+## How Many Requisitions I did  that were Processed Over $100,000 ?
+
+## What Is the Total Amount of All Requisitions I did Over $100,000 ?
+
+## What is the Requisition Lowest Amount I did?
+
+## What Kind of Requisition Is the Lowest Amount I did?
+
+## What Is the Requisition Highest Amount I did?
+
+## What Kind of Requisition Is the Highest Amount I did?
+
+## What is the Average Total Amount of Requisitions Overall I did ?
+
+## How Many Requisitions and Their Total Amounts I did Used the Requisition Type of Goods and Services ?
+
+## How Many Requisitions and Their Total Amounts I did Used the Requisition Type of Technology ?
+
+## How Many Requisitions and Their Total Amounts I did Used the Requisition Type of Pay an Invoice ?
+
+## How Many Requisitions and Their Total Amounts I did Used Many Requisition Types Instead of the Ones Mentioned Above ?
+
+
