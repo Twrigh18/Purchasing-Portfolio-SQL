@@ -244,8 +244,14 @@ The trend is just the same as the number of requisitions departments submitted a
 Conclusion
 Since there is no pandemic now, I believe ASU will increase the enrollment. More enrollment means more tuition means more money, meaning departments must purchase things that will go to the purchasing team that will keep us busy. I predict that more requisitions will be processed in 2024 than this year 2023. I believe there will be more Purchase Orders issued in 2024 than 2023. I also believe that departments will spend even more money on Goods/Services, Scientific, Technology, and Construction purchases. I predict every year purchases will increase but more slowly in the long run.
 
-# The Requstions I did since starting at ASU in 2022
-
+## The Requstions I did since starting at ASU in 2022
+SELECT 
+ *
+ FROM
+  Requisitions
+ WHERE
+  SourcingBuyer = 'Timothy Wright';
+6137
 ## What is the Total Amounts of All Requisitions I did Overall?
 SELECT 
  round(SUM(TotalAmount),2)
@@ -264,7 +270,14 @@ WHERE
  TotalAmount < '25000.99' AND SourcingBuyer = 'Timothy Wright';
 5847
 ## What is The Total Amount of All Requisitions I did Under $25,000 ?
+SELECT
+ round(SUM(TotalAmount),2) AS [Total Amount of All Requisitions I Processed under $25,000]
+FROM
+ Requisitions
+WHERE
+ TotalAmount < '25000.99' AND SourcingBuyer = 'Timothy Wright';
 
+15952662.19
 ## How Many Requisitions I did  that were Processed Over $25,000 ?
 SELECT
  *
@@ -275,8 +288,13 @@ WHERE
 
 290
 ## What Is the Total Amount of All Requisitions I did Over $25,000 ?
-
-
+SELECT
+ round(SUM(TotalAmount),2) AS [Total Amount of All Requisitions I Processed over $25,000]
+FROM
+ Requisitions
+WHERE
+ TotalAmount > '25001' AND SourcingBuyer = 'Timothy Wright';
+15375117.64
 ## How Many Requisitions I did  that were Processed Over $100,000 ?
 SELECT
  *
@@ -284,10 +302,15 @@ FROM
  Requisitions
 WHERE
  TotalAmount > '100000' AND SourcingBuyer = 'Timothy Wright';
-
  0
 ## What Is the Total Amount of All Requisitions I did Over $100,000 ?
-
+SELECT
+ round(SUM(TotalAmount),2) AS [Total Amount of All Requisitions I Processed over $100,000]
+FROM
+ Requisitions
+WHERE
+ TotalAmount > '25001' AND SourcingBuyer = 'Timothy Wright';
+0
 ## What is the Requisition Lowest Amount I did?
 SELECT
  MIN(TotalAmount) AS [Requisition Lowest Amount]
