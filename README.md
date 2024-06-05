@@ -45,7 +45,7 @@ The issues with the provided original Excel Worksheet File after I pulled a Requ
 
 After I did the data cleaning, I saved the Excel Worksheet File.
 End Result of the Requisition Report in Excel after Data Cleaning in Excel Worksheet Format
- <img width="1056" alt="Sample of Original Report Pulled from Workday after cleaning" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/d59d5186-2cc2-4ee5-beae-505307d83d51">
+<img width="1056" alt="Sample of Original Report Pulled from Workday after cleaning" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/d59d5186-2cc2-4ee5-beae-505307d83d51">
 
 The final step is to convert the Excel Worksheet into CSV UTF-8. I went and saved the Excel Worksheet as CSV UTF-8. I recommend after the file is converted is to leave it alone. I did not use the CSV only because there will be issues with successfully importing the csv file. If you need to make changes, do the changes before convert the excel file to any type of CSV format
 End Result of the Requisition Report as a CSV UTF-8 File
@@ -61,6 +61,7 @@ I created a new database. It is an SQL File. I named it Reqs and saved it somewh
 <img width="588" alt="New Database File Save" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/e5a385f8-743f-4d77-bd1d-508e2990d7e6">
 
 After I saved the file. The edit table definition pops up. I copied the column names in exact order the same way as it shows up in the CSV UTF 8 File. I named the table Requisitions. I added a primary key and created certain data types that can help with right data being sorted when I start querying. 
+
 <img width="526" alt="Edit Table with Data Types Needed" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/ffb0f9d5-a25e-48ea-8b76-c746257650a0">
 
 End Result of the Requisition Table after being created
