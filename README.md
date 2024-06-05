@@ -77,7 +77,7 @@ Final Step is to test the query. I used the SELECT * FROM Requisitions; command.
 
 <img width="1621" alt="First Query Testing" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/80fa6b86-c095-4cd5-8c41-c875ea6773a0">
 
-This was the hardest part of learning SQL. I googled a lot. But I am happy that I was able to pull this off. Once done this process is very rewarding and made me become better at creating and understanding SQL and other databases in general.
+This was the hardest part of learning SQL. I googled and used AI like ChatGPT a lot. But I am happy that I was able to pull this off. Once done this process is very rewarding and made me become better at creating and understanding SQL and other databases in general.
 
 # Querying
 I will be using queries to answer questions. I have created some questions and will answer questions using queries.
