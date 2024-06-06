@@ -36,12 +36,12 @@ The issues with the provided original Excel Worksheet File after I pulled a Requ
 7.	The Excel File is in Excel Worksheet File format instead of CSV UTF-8 but do this last
 
 ## Cleaning the data
-* For the no single column that unique identifies each row: I added a new column name called RequistionID. Since this is the column that uniquely identifies each row numbers can not repeat. I added 1 2 3 4 and tapped the lower right square and all the numbers populate all the way until the last number in the 400,000 range. This is used so the primary key can be added in the SQL Database
-* For the Column Names have Spaces: I click on each of the column names and just remove the spaces
-* For the Date format is MM/DD/YYYY instead of YYYY-MM-DD: I just highlighted the requisition date column and clicked on the number format and selected more number formats and selected custom and I typed YYYY-MM-DD
-* For the data that contain numerical values that have commas: I highlighted the total amount column and clicked on the number format and selected general. This replaces the commas in the numerical values. A numeric data type will be used when the report gets imported into SQL
-* For the Duplicate Column for Requisition Number: I deleted I highlighted the first column requisitions and selected delete and move to left. I then move the rest of the columns containing the data to the right to add the RequisitionID column.
-* The report criteria and the date before and after and the dates: I highlighted the first five rows that contain those report criteria and the before and after dates and selected delete and those rows disappear.
+* **For the no single column that unique identifies each row:** I added a new column name called RequistionID. Since this is the column that uniquely identifies each row numbers can not repeat. I added 1 2 3 4 and tapped the lower right square and all the numbers populate all the way until the last number in the 400,000 range. This is used so the primary key can be added in the SQL Database
+* **For the Column Names have Spaces:** I click on each of the column names and just remove the spaces
+* **For the Date format is MM/DD/YYYY** instead of YYYY-MM-DD: I just highlighted the requisition date column and clicked on the number format and selected more number formats and selected custom and I typed YYYY-MM-DD
+* **For the data that contain numerical values that have commas:** I highlighted the total amount column and clicked on the number format and selected general. This replaces the commas in the numerical values. A numeric data type will be used when the report gets imported into SQL
+* **For the Duplicate Column for Requisition Number:** I deleted I highlighted the first column requisitions and selected delete and move to left. I then move the rest of the columns containing the data to the right to add the RequisitionID column.
+* **The report criteria and the date before and after and the dates:** I highlighted the first five rows that contain those report criteria and the before and after dates and selected delete and those rows disappear.
 
 After I did the data cleaning, I saved the Excel Worksheet File.
 End Result of the Requisition Report in Excel after Data Cleaning in Excel Worksheet Format
