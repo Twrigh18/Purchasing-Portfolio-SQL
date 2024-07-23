@@ -237,6 +237,7 @@ The results match some of the questions of finding how many requisitions were pr
 Goods and Services is on the top since this a requisition type department should always use to generate PO before using Pay in Invoice to pay for the purchase. Many requisition types start appearing near the top that deal with construction due to the nature of their purchases. These purchases absolutely need a Purchase Order generated in order to protect the departments especially with how expensive these purchases order.
 
 ## What are the Top Requestors by the Total Number of Requisitions Submitted using HAVING clause?
+<img width="580" alt="Top Number of Requestors and the number of requstions they submitted" src="https://github.com/user-attachments/assets/9bed3be6-1d14-4ba6-835d-6d30dc8d1f8f">
 
  
 There are **4875** different Requesters purchasing dealt with since 2018. They represent different departments across ASU such as SDA, President’s Office, Ira Fulton, WP Carey, Mary Lou, CPMG, Materials Management and many more. The top one works in Materials Management. It is some materials management, but the rest are a variety of departments. Purchasing knows these names by repetition since their titles do not appear in Workday. We must search for their emails personally. It is cool to see what type of order different departments do.
