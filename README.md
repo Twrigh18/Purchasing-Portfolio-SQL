@@ -359,7 +359,7 @@ For the Purchasing Department to generate purchase orders that is needed to go t
 <img width="1084" alt="Total Number of MY Requisitions that used Technology" src="https://github.com/user-attachments/assets/f707224d-3504-436c-81b8-bde73423a700">
 
 
-I have processed **252** requisitions that use the requisition type of technology. That means 170 purchase orders have been issued. They are treated the same as goods and services, but they just require a security review while goods and services don’t. 
+I have processed **252** requisitions that use the requisition type of technology. That means 252 purchase orders have been issued. They are treated the same as goods and services, but they just require a security review while goods and services don’t. 
 
 ## How Many Requisitions I Have Processed That Used the Requisition Type of Pay an Invoice ?
 <img width="1100" alt="Total Number of MY Requisitions that used Pay an Invoice" src="https://github.com/user-attachments/assets/651b0e9c-4f55-4d2f-a9ba-dfacf44c9f24">
