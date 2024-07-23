@@ -170,21 +170,26 @@ This requisition is for construction services for the new building lab called In
 Is around **$9655.38**. This proves most requisitions are low dollar.
 
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Goods and Services ?
+<img width="1168" alt="Total Number of Requisitions that used Goods and Services" src="https://github.com/user-attachments/assets/7254216a-4b85-4bf0-b949-abbcc71af29d">
 
  
 Departments have submitted around **309,641** requisitions totaling around $2,137,782,764.41 that uses the requisition type of Goods and Services. This is an important requisition type. This requisition type generates a purchase order after a requisition gets approved to go to supplier as a contract and the supplier automatically accepts ASU terms and conditions. When a supplier disagrees with some or all of the ASU terms and conditions in the PO, the supplier will create a contracts with their terms and conditions and purchasing will sign off adding ASU terms and conditions and if the supplier still disagrees, the contracts team will specialize in negotiations of the contracts. The purchase order protects ASU and departments if the orders or services go wrong. The total amount for each requisition type is from a query that is coming up.
 
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Technology ?
+<img width="1166" alt="Total Number of Requisitions that used Technology" src="https://github.com/user-attachments/assets/3cec89ae-0913-4f62-9b90-42e64df273e7">
+
 
  
 Departments have submitted around **30,087** requisitions totaling around $593,431,625.50 that uses the requisition type of Technology. Technology operates the same way as using Goods and Services. What makes this requisition type different is that these require security review so these will be provided in requisition before or after approval but are provided before the orders need payment. Pay an invoice of technology purchases has a security review alert so the orders get counted under the requisition type of Pay an Invoice. Sometimes these orders will have suppliers wanting subscription agreements signed so the purchasing department must be very careful with what they agree to because their amounts are more, they have terms for 1 to the max of 5 years and many more supplier terms and conditions. Subscription contracts are the contracts that purchasing must be the most careful on.
 
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Pay an Invoice ?
+<img width="1113" alt="Total Number of Requisitions that used Pay an Invoice" src="https://github.com/user-attachments/assets/7bb09816-f730-40fb-ac6f-117c575b4152">
 
 
 Departments have submitted around **58,498** requisitions totaling around $353,743,777.07 that uses the requisition type of Pay an Invoice. Pay in Invoice is used when a service is done after the fact and the services needed to get paid. In the past, there were many departments that would skip over to using Pay an Invoice used of using Goods and Services generating a PO. This is an issue because if the supplier has any issues, they can point to the PO, but if the PO is not there, then that is on the department. We always want departments for us to generate the PO before creating  a requisition to pay an invoice.
 
 ## How Many Requisitions and Their Total Amounts Used Many Requisition Types Instead of the Ones Mentioned Above ?
+<img width="1178" alt="Total Number of Requisitions that used other Requsition Type" src="https://github.com/user-attachments/assets/302fc3c5-3faf-4252-a46a-2d9c305f1905">
 
  
 Departments have submitted around **38,745** requisitions totaling around $1,134,160,935.89 that uses the requisition types other than Goods and Services, Pay an Invoice, and technology. Construction and MRO team are the ones that use the other requisition types. My team in strategic partnerships will rarely use the Chemical requisition type and those get routed to materials management after approval. The department chooses a requisition type based on the purchases and that requisition will route to a purchasing team based on the requisition type. Departments should always reach out to purchasing if they are not too sure if the requisition type is the right one.
@@ -225,6 +230,7 @@ Goods and Services is on the top since this a requisition type department should
 There are **4875** different Requesters purchasing dealt with since 2018. They represent different departments across ASU such as SDA, President’s Office, Ira Fulton, WP Carey, Mary Lou, CPMG, Materials Management and many more. The top one works in Materials Management. It is some materials management, but the rest are a variety of departments. Purchasing knows these names by repetition since their titles do not appear in Workday. We must search for their emails personally. It is cool to see what type of order different departments do.
 
 ## What is the Total Number of Requisitions per year since 2018 ?
+<img width="788" alt="Total Number of all Requisitions per year since 2018" src="https://github.com/user-attachments/assets/598dadae-7bad-42a9-aaa7-0603fcc6eab3">
 
  
 * 2018 – 41652 Requisitions
@@ -237,6 +243,7 @@ There are **4875** different Requesters purchasing dealt with since 2018. They r
 There is a trend with the number of requisitions processes yearly. 2018 is when Workday was first implemented so the number of requisitions is the lowest for that reason. 2019 is the year where the requisitions were processed the most pre pandemic. There were a lot of students enrolled so departments have the funding to spend their money. Purchasing was busy during that year. 2020 is where everything changed. 2020 has the lowest number of requisitions processed. The reason for that huge decline from 2019 is that the pandemic had occurred. ASU had to basically go online, and the university was almost shut down in many ways. Campus was very empty. Because there were not as many students on campus, departments did not really spend as much of their money. As the pandemic started to subside, there number of requisitions started to increase every single year. 2023 has the most requisitions processed. This is the year where the university felt normal before the pandemic.
 
 ## What is the Total Amount of all Requisitions per year since 2018 ?
+<img width="662" alt="Total Amount of all Requisitions per year since 2018" src="https://github.com/user-attachments/assets/2715378b-6334-47a0-af28-d5a78b13cbc0">
 
  
 * 2018 – $348,200,512.82 All Departments spent around 348 million dollars this year in 2018.
@@ -249,6 +256,16 @@ There is a trend with the number of requisitions processes yearly. 2018 is when 
 The trend is just the same as the number of requisitions departments submitted and processed. Department spends lots of money until the pandemic hits in 2020 where ASU is kind of shut down. As the pandemic ends, the spending slowly increases and now in 2023, All departments spend over 1 billion dollars on anything for ASU. I predict all departments will spend even more money in the future.
 Conclusion
 Since there is no pandemic now, I believe ASU will increase the enrollment. More enrollment means more tuition means more money, meaning departments must purchase things that will go to the purchasing team that will keep us busy. I predict that more requisitions will be processed in 2024 than this year 2023. I believe there will be more Purchase Orders issued in 2024 than 2023. I also believe that departments will spend even more money on Goods/Services, Scientific, Technology, and Construction purchases. I predict every year purchases will increase but more slowly in the long run.
+
+
+
+
+
+
+
+
+
+
 
 ## How Many Requisitions I have Processed since I started at ASU ?
  <img width="1109" alt="Total Number of Requisitions I Processed since Starting at ASU" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/caadfd06-6963-4de8-8188-2e4714d77c6d">
