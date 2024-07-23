@@ -307,7 +307,8 @@ I have processed **5,847** requisitions that are $25,000 and under. These repres
 Departments spent **$15,952,662.19** on purchases that goes to me under $25,000.
 
 ##  How Many Requisitions That I have Processed That are Over $25,000? 
-<img width="1094" alt="Total Number of All the Requisitions I Processed Over 25,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/36ad7506-3088-4bd3-bfe4-20d29a387e49">
+<img width="1088" alt="Total Number of all of MY requisitions over $25,000" src="https://github.com/user-attachments/assets/0b42d4cc-c493-4528-a1d7-9214f8e48030">
+
 
 I have processed **290** requisitions over $25,000. High dollars requisitions are more time consuming because they require more documentation and if the purchases use federal money, then even more documentation is needed so that the departments justify their purchase. That involves reaching out to the department to obtain more documentation. Processing high dollar requisitions is the biggest priority for the Strategic Partnerships team in that we get trained in how to do these first before going to low dollar. These requisitions have a steeper learning curve with learning which documentation is needed but are easy to master eventually. The hardest part is making sure departments have the right documentations because they don’t always provide what we wanted.
 
@@ -321,7 +322,8 @@ The reason the number is lower because purchasing in general doesn’t get a lot
 Departments spent **$15,375,117.64** on purchases that goes to me over $25,000.
 
 ## How Many Requisitions That I have Processed That are Over $100,000?
-<img width="664" alt="Total Number of All the Requisitions I Processed Over 100,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/b79fb5fd-fa2b-4418-abca-4f0764e70aaf">
+<img width="1010" alt="Total Number of all of MY requisitions over $100,000" src="https://github.com/user-attachments/assets/1a2c0084-039b-4665-9f7f-5f15509a22f6">
+
  
 I have processed **zero** requisitions that are over $100,000. The reason for this is because requisitions over $100,000 do not go to our team in Strategic Partnerships. Those over $100,000 requisitions route over to the Sourcing Team in which they exclusively deal with over $100,000 requisitions.
 
