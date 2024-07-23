@@ -330,39 +330,39 @@ I have processed **zero** requisitions that are over $100,000. The reason for th
 ## What Is the Requisition Lowest Amount I did?
 <img width="673" alt="Requisition Lowest Amount I did" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/df0939ed-6d23-4ef3-908c-719ae94b9e68">
  
-The lowest amount I have done on a requestions is zero dollars. Those requestions can either be a zero-dollar discount, Attachments or anything written the requisition needs to go to the suppler after the purchase order is generated, an agreement need to be signed and sent to the supplier or an agreement term needs to be extended. 
+The lowest amount I have done on a requestions is **zero** dollars. Those requestions can either be a zero-dollar discount, Attachments or anything written the requisition needs to go to the suppler after the purchase order is generated, an agreement need to be signed and sent to the supplier or an agreement term needs to be extended. 
 
 ## What Is the Requisition Highest Amount I did?
 <img width="714" alt="Requisition Highest Amount I did" src="https://github.com/user-attachments/assets/8f5c2c2d-4d44-445c-a0b6-a3b5266a4391">
 
 
-The lowest amount I have done on a requestions is **$99,934.84** dollars. It is close to $100,000. This is a lot of money. I have seen some requisitions that are exactly $100,000 that reach strategic partnerships. We usually reassign those requisitions to the sourcing team.
+The lowest amount I have done on a requestions is **$100,000** dollars. It is close to $100,000. This is a lot of money. I have seen some requisitions that are exactly $100,000 that reach strategic partnerships. We usually reassign those requisitions to the sourcing team.
 
 ## What is the Average Total Amount of Requisitions Overall I did ?
 
 <img width="674" alt="Average Total Amount of MY Requisitions Overall " src="https://github.com/user-attachments/assets/caf57295-72f2-473c-8815-48670e769fb1">
 
-The average amount I did on requisitions is around **$5,104.74**. This proves a majority of requisitions that come to Strategic Partnerships are under $25,000. 
+The average amount I did on requisitions is around **$6,438.09**. This proves a majority of requisitions that come to Strategic Partnerships are under $25,000. 
 
 ## How Many Requisitions I Have Processed That Used the Requisition Type of Goods and Services ?
 
 <img width="1112" alt="Total Number of MY Requisitions that used Goods and Services" src="https://github.com/user-attachments/assets/aae5d39f-e682-45c3-81dd-414889540b1b">
 
 
-For the Purchasing Department to generate purchase orders that is needed to go to the supplier that automatically accepts ASU terms and conditions in order to be used as a contract, departments will choose the requisition types of Goods and Services, Chemical, or Technology. I generated **954** Purchase Orders from requisitions that use Goods and Services. Strategic Partnerships don’t get as much requisitions that uses goods and services because departments will sometimes want to purchase to issue Purchase Orders that are of high dollar amounts and then want to pay for each of the goods and services separately with the requisition type of Pay an Invoice.
+For the Purchasing Department to generate purchase orders that is needed to go to the supplier that automatically accepts ASU terms and conditions in order to be used as a contract, departments will choose the requisition types of Goods and Services, Chemical, or Technology. I generated **1103** Purchase Orders from requisitions that use Goods and Services. Strategic Partnerships don’t get as much requisitions that uses goods and services because departments will sometimes want to purchase to issue Purchase Orders that are of high dollar amounts and then want to pay for each of the goods and services separately with the requisition type of Pay an Invoice.
 
 ## How Many Requisitions I Have Processed That Used the Requisition Type of Technology?
 
 <img width="1084" alt="Total Number of MY Requisitions that used Technology" src="https://github.com/user-attachments/assets/f707224d-3504-436c-81b8-bde73423a700">
 
 
-I have processed **170** requisitions that use the requisition type of technology. That means 170 purchase orders have been issued. They are treated the same as goods and services, but they just require a security review while goods and services don’t. 
+I have processed **252** requisitions that use the requisition type of technology. That means 170 purchase orders have been issued. They are treated the same as goods and services, but they just require a security review while goods and services don’t. 
 
 ## How Many Requisitions I Have Processed That Used the Requisition Type of Pay an Invoice ?
 <img width="1100" alt="Total Number of MY Requisitions that used Pay an Invoice" src="https://github.com/user-attachments/assets/651b0e9c-4f55-4d2f-a9ba-dfacf44c9f24">
 
 
-A Pay an Invoice requisition type is used for purchases or services that have already happened. Suppliers will provide departments with an invoice and purchasing checks if departments provide an invoice document. I have done **5,011** requisitions that are Pay an Invoice any amounts. Purchasing must approve Pay an Invoice requisition for departments to pay for their purchases. Pay an Invoice is that requestion type that I approved the most. The Pay an Invoice requisitions is the requisition type that our team Strategic Partnerships sees the most. Purchasing always want departments to generate PO before using Pay an Invoice.
+A Pay an Invoice requisition type is used for purchases or services that have already happened. Suppliers will provide departments with an invoice and purchasing checks if departments provide an invoice document. I have done **5,279** requisitions that are Pay an Invoice any amounts. Purchasing must approve Pay an Invoice requisition for departments to pay for their purchases. Pay an Invoice is that requestion type that I approved the most. The Pay an Invoice requisitions is the requisition type that our team Strategic Partnerships sees the most. Purchasing always want departments to generate PO before using Pay an Invoice.
 
 ## How Many Requisitions I Have Processed That Used Other Requisition Types?
 
