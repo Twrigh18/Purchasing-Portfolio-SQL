@@ -302,7 +302,7 @@ Departments spent **$24,898,610.91** so around 25 million dollars with the requi
 I have processed **5,847** requisitions that are $25,000 and under. These represent most of the department’s purchases. I have move away from processing these the longer I work in purchasing. If I do an under $25,000 requisitions, it would be the oldest one first
 
 ## What Is the Total Amount of All of the Requisitions I Have Processed That are Under $25,000?
-<img width="701" alt="Total Amount of All the Requisitions I Processed Under 25,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/165e33b0-70d7-4e09-9472-579f615cbfde">
+
 
 Departments spent **$15,952,662.19** on purchases that goes to me under $25,000.
 
@@ -316,7 +316,7 @@ The reason the number is lower because purchasing in general doesn’t get a lot
 
 
 ## What Is the Total Amount of All of the Requisitions I Have Processed That Are Over $25,000?
-<img width="1088" alt="Total Number of all of MY requisitions over $25,000" src="https://github.com/user-attachments/assets/744ec4f0-7b39-44b2-9a06-ade483d03a4b">
+
 
 
 Departments spent **$15,375,117.64** on purchases that goes to me over $25,000.
