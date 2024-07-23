@@ -101,6 +101,7 @@ The amount from all the requisitions adds up to a total of **$4,219,119,102.87**
 All Departments submitted **421,945** requisitions that were under $25,000. These requisitions are easy in that they need less documentation so these can be processed very quickly. These take up most of the requisitions overall.
 
 ## What is The Total Amount of All Requisitions Under $25,000 ?
+<img width="668" alt="Total Amount of all Requisitions under $25,000" src="https://github.com/user-attachments/assets/8f3c2be5-c68a-4309-a4ee-9ec49b215b56">
 
 
 Departments spent around **$638,388,640.23** on orders that are under $25,000.
@@ -112,6 +113,7 @@ Departments spent around **$638,388,640.23** on orders that are under $25,000.
 All Departments submitted **15,026** requisitions that were over $25,000. Do not let the small number fool you. These orders require more documentation, so these require us to wait for the department to reach back out for the required documentation. These even take longer if the requisitions use federal funding. These take longer to do.
 
 ## What Is the Total Amount of All Requisitions Over $25,000 ?
+<img width="667" alt="Total Amount of all Requisitions over $25,000" src="https://github.com/user-attachments/assets/73228f37-fb3e-497e-9a26-8d6d5c9d76a4">
 
 
 Departments spent around **$3,580,730,462.64** on orders that are over $25,000.
@@ -128,6 +130,7 @@ All Departments submitted **10902** requisitions that were between $25,000 and $
 All Departments submitted **4,194** requisitions that were over $100,000. These requisitions require suppliers that have formal solicitations or have a sole source. Departments really have to check if an order is going to go over $100,000
 
 ## What Is the Total Amount of All Requisitions Over $100,000 ?
+<img width="667" alt="Total Amount of all Requisitions over $100,000" src="https://github.com/user-attachments/assets/a2c2719c-8cdc-468f-84bf-41065cfcb08a">
 
 
 Departments spent around **$3,045,686,758.52** on orders that are over $100,000.
@@ -139,6 +142,7 @@ Departments spent around **$3,045,686,758.52** on orders that are over $100,000.
 All Departments submitted **379** requisitions that were over $1,000,000. These are treated as requisitions over $100,000. This is a lot of many so purchasing must be careful and not make any mistakes on these purchases.
 
 ## What Is the Total Amount of All Requisitions Over $1,000,000 ?
+<img width="775" alt="Total Amount of all Requisitions over $1,000,000" src="https://github.com/user-attachments/assets/6e2eb8f6-29a9-40ea-9a1c-8a8a5b72a448">
 
  
 Departments spent around **$2,031,538,576.88** on orders that are over $1,000,000.
@@ -150,6 +154,7 @@ The lowest amount on a requisition is **-11.96** or around **-$12 dollars**. Thi
 
 ## What Kind of Requisition Is the Lowest Amount ?
 
+<img width="983" alt="Requisition Lowest Amount Type" src="https://github.com/user-attachments/assets/5e18bc31-5281-4bc4-be39-0923e4c6c95b">
 
 This is a pay an invoice requisition. From pulling this up in Workday. This requisition is textbook purchases for student athletes each team like Football Basketball Baseball etc. for SDA. There were around 13 discounts out of 21 different teams that had textbook purchases for student athletes that made the total on the requisition around -12 dollars. Note this is the only requisition with a negative amount.
 
@@ -195,21 +200,25 @@ Departments have submitted around **58,498** requisitions totaling around $353,7
 Departments have submitted around **38,745** requisitions totaling around $1,134,160,935.89 that uses the requisition types other than Goods and Services, Pay an Invoice, and technology. Construction and MRO team are the ones that use the other requisition types. My team in strategic partnerships will rarely use the Chemical requisition type and those get routed to materials management after approval. The department chooses a requisition type based on the purchases and that requisition will route to a purchasing team based on the requisition type. Departments should always reach out to purchasing if they are not too sure if the requisition type is the right one.
 
 ## How Many Requisitions Used the Requisition Type of Pay an Invoice with the Requestors That Start With the Letter J ? 
+<img width="1111" alt="Total Number of requisitions used the requisition type of Pay an Invoice with the requestors that start with the letter J" src="https://github.com/user-attachments/assets/cf7d1df7-c5a9-4cdc-8825-294c31048605">
 
  
 There were **5019** Requisitions were processed answering this question
 
 ## How Many Requisitions Used the Requisition Type of Goods and Services with the Requestors That Start with the letter L and the Requisition Amounts That Are Over $25,000 ?
+<img width="1118" alt="Total number of requisitions used the requisition type of Goods and Services with the requestors that start with L and the  requisition amounts that are over $25,000" src="https://github.com/user-attachments/assets/a1b0ead6-b1a0-4f07-b72f-66f43d42deab">
 
  
 There were **697** Requisitions were processed answering this question
 
 ## How Many Requisitions Used the Requisition Type of Technology with the Requestors That Start with the Letters T, S, C, or P and the Requisition Amounts That Are Over $25,000 ? 
+<img width="1169" alt="TO9A39~1" src="https://github.com/user-attachments/assets/91bca2cb-620b-4481-a629-0d10207297a6">
 
 
 There were **72019** Requisitions that were processed answering this question
 
 ## What are the Different Types of Requisition Types Being Used ?
+<img width="524" alt="How many different types of Requisition Types being used" src="https://github.com/user-attachments/assets/f09b3f7f-73ac-48dd-8e3d-2e85506c4c78">
 
 
 There are **17** different types of Requisition type is displayed in a table
