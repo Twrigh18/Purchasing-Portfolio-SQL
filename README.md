@@ -369,7 +369,7 @@ A Pay an Invoice requisition type is used for purchases or services that have al
 <img width="1082" alt="Total Number of MY Requisitions that used other Requsition Type" src="https://github.com/user-attachments/assets/dd970ae8-bc2a-4507-9785-4d6c442e3f96">
 
 
-I have processed **64** requisitions of the other requisition types. All the other requestions type route to different teams within Purchasing. The only other requisition type that Strategic Partnerships do is Chemical. These go to material management after approval. The chemical orders are chemicals that are hazardous if people are not careful handling it. These requisitions are rare to see, but are treated just like a Goods and Services Requisitions. 
+I have processed **72** requisitions of the other requisition types. All the other requestions type route to different teams within Purchasing. The only other requisition type that Strategic Partnerships do is Chemical. These go to material management after approval. The chemical orders are chemicals that are hazardous if people are not careful handling it. These requisitions are rare to see, but are treated just like a Goods and Services Requisitions. 
 
 ## How Many Requisitions I Have Processed Every Year?
 
