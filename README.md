@@ -225,11 +225,13 @@ There were **72019** Requisitions that were processed answering this question
 There are **17** different types of Requisition type is displayed in a table
 
 ## What are the Top 17 Requisition Types by Count from Largest to Smallest with Their Total Amounts Included not in Order ?
+<img width="952" alt="Different Req types total number of reqs and amount with number in descending order" src="https://github.com/user-attachments/assets/47a8850b-2499-4044-93c8-6618e9410232">
 
  
 The results match some of the questions of finding how many requisitions were processed using different Requisition Types. The Top 3 Requisition Types by count are Goods and Services, Pay an Invoice, and Technology. My team strategic partnerships and the sourcing team deals with these requisition types the most on a daily basis. MRO team deals with non-stock facilities and inventory replenishment. Chemical and Specialty Gas goes to materials management. Construction team deals with the rest and those require different documentations and requirements based on the purchase
 
 ## What are the Top 17 Requisition Type Total Amounts from Largest to Smallest with Their Total Number of Requisitions Included not in Order ?
+<img width="952" alt="Different Req types total number of reqs and amount with number in descending order" src="https://github.com/user-attachments/assets/b2adfc50-fe60-47f4-a57e-a6a8eb389ca5">
 
  
 Goods and Services is on the top since this a requisition type department should always use to generate PO before using Pay in Invoice to pay for the purchase. Many requisition types start appearing near the top that deal with construction due to the nature of their purchases. These purchases absolutely need a Purchase Order generated in order to protect the departments especially with how expensive these purchases order.
