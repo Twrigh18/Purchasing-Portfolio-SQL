@@ -264,9 +264,10 @@ There is a trend with the number of requisitions processes yearly. 2018 is when 
 * 2018 – $348,200,512.82 All Departments spent around 348 million dollars this year in 2018.
 * 2019 – $727,505,051.34 All Departments spent around 727 million dollars this year in 2019.
 * 2020 – $579,614,994.83 All Departments spent around 580 million dollars this year in 2020.
-* 2021 – $674,275,522.28 All Departments spent around 674 million dollars this year in 2021.
-* 2022 – $840,200,614.57 All Departments spent around 840 million dollars this year in 2022.
-* 2023 – $1,049,170,380.03 All Departments spent around 1 billion dollars this year in 2023.
+* 2021 – $674,442,522.28 All Departments spent around 674 million dollars this year in 2021.
+* 2022 – $840,200,641.57 All Departments spent around 840 million dollars this year in 2022.
+* 2023 – $1,049,170,380.17 All Departments spent around 1 billion dollars this year in 2023.
+* 2024 – $470,047,046.08 All Departments spent around 1 billion dollars this year in 2023.
 
 The trend is just the same as the number of requisitions departments submitted and processed. Department spends lots of money until the pandemic hits in 2020 where ASU is kind of shut down. As the pandemic ends, the spending slowly increases and now in 2023, All departments spend over 1 billion dollars on anything for ASU. I predict all departments will spend even more money in the future.
 Conclusion
