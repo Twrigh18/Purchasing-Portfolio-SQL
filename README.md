@@ -382,7 +382,7 @@ I have processed **72** requisitions of the other requisition types. All the oth
 
 * 2022 – 2069 requisitions have been processed by me in 2022
 * 2023 – 4068 requisitions have been processed by me in 2023
-* 2024 – 4068 requisitions have been processed by me in 2023
+* 2024 – 569 requisitions have been processed by me in 2024
 
 The trend is that the number of requisitions that I have been processing have increased. As years go on if I still stay in purchasing the number of requisitions that I have processed will plateau and stay close to the same because departments can only submit so many requisitions and I also have more teammates taking on requisitions other than myself.
 
@@ -392,7 +392,7 @@ The trend is that the number of requisitions that I have been processing have in
 
 * 2022 – Departments spent $5,660,838.79 so around 5 million dollars with the requisitions that I have processed in 2022.
 * 2023 – Departments spent $25,666,941.04 so around 25 million dollars with the requisitions that I have processed in 2023.
-* 2024 – Departments spent $25,666,941.04 so around 25 million dollars with the requisitions that I have processed in 2023.
+* 2024 – Departments spent $11846027.17 so around 25 million dollars with the requisitions that I have processed in 2024.
   
 The trend is that the amounts from the requisitions are increasing every year. In the future the amounts will increase every year since I had taken on higher dollar requisitions.
 
