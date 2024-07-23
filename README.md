@@ -92,7 +92,7 @@ In the entire purchasing department, **479,700** requisitions have been created 
 <img width="567" alt="Total Amount of all Requisitions since 2018" src="https://github.com/user-attachments/assets/92cf7161-41b7-4126-bf0a-a08719a5149d">
 
 
-The amount from all the requisitions adds up to a total of **$4689165959.68**. So, all departments at ASU spent a total of around 4 billion dollars since the start of fiscal year 2018.
+The amount from all the requisitions adds up to a total of **$4,689,165,959.68**. So, all departments at ASU spent a total of almost 5 billion dollars since the start of fiscal year 2018.
 
 ## How Many Requisitions Were Processed Under $25,000 ?
 <img width="1140" alt="Total Number of all Requisitions under $25,000" src="https://github.com/user-attachments/assets/fa0a5ecd-ee78-4f70-a776-42303413b446">
@@ -104,7 +104,7 @@ All Departments submitted **463,248** requisitions that were under $25,000. Thes
 <img width="668" alt="Total Amount of all Requisitions under $25,000" src="https://github.com/user-attachments/assets/8f3c2be5-c68a-4309-a4ee-9ec49b215b56">
 
 
-Departments spent around **$702508727.80** on orders that are under $25,000.
+Departments spent around **$702,508,727.80** on orders that are under $25,000.
 
 ## How Many Requisitions were Processed Over $25,000 ?
 <img width="1175" alt="Total Number of all requisitions over $25,000" src="https://github.com/user-attachments/assets/e304b72f-feec-4c5d-aa4e-5f536bd09760">
@@ -116,7 +116,7 @@ All Departments submitted **16,452** requisitions that were over $25,000. Do not
 <img width="667" alt="Total Amount of all Requisitions over $25,000" src="https://github.com/user-attachments/assets/73228f37-fb3e-497e-9a26-8d6d5c9d76a4">
 
 
-Departments spent around **$3986657231.88** on orders that are over $25,000.
+Departments spent around **$3,986,657,231.88** on orders that are over $25,000.
 
 ## How Many Requisitions were Processed between $25,000 and $100,000 ?
 
@@ -134,7 +134,7 @@ All Departments submitted **4,574** requisitions that were over $100,000. These 
 <img width="667" alt="Total Amount of all Requisitions over $100,000" src="https://github.com/user-attachments/assets/a2c2719c-8cdc-468f-84bf-41065cfcb08a">
 
 
-Departments spent around **$3400642325.94** on orders that are over $100,000.
+Departments spent around **$3,400,642,325.94** on orders that are over $100,000.
 
 ## How Many Requisitions were Processed Over $1,000,000 ?
 <img width="1172" alt="Total Number of all requisitions over $1,000,000" src="https://github.com/user-attachments/assets/a6cc765b-849a-4368-9c15-01dde76cbf89">
@@ -146,7 +146,7 @@ All Departments submitted **412** requisitions that were over $1,000,000. These 
 <img width="775" alt="Total Amount of all Requisitions over $1,000,000" src="https://github.com/user-attachments/assets/6e2eb8f6-29a9-40ea-9a1c-8a8a5b72a448">
 
  
-Departments spent around **$2293023530.86** on orders that are over $1,000,000.
+Departments spent around **$2,293,023,530.86** on orders that are over $1,000,000.
 
 ## What is the Requisition Lowest Amount ?
 <img width="934" alt="Requisition Lowest Amount" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/43fd4497-c769-434d-8668-b2d05fc06ad1">
@@ -247,13 +247,13 @@ There are **4875** different Requesters purchasing dealt with since 2018. They r
 <img width="788" alt="Total Number of all Requisitions per year since 2018" src="https://github.com/user-attachments/assets/598dadae-7bad-42a9-aaa7-0603fcc6eab3">
 
  
-* 2018 – 41652 Requisitions
-* 2019 – 85793 Requisitions
-* 2020 – 66905 Requisitions
-* 2021 – 74310 Requisitions
-* 2022 – 82084 Requisitions
-* 2023 – 86228 Requisitions
-* 2024 – 42728 Requisitions
+* 2018 – **41652** Requisitions
+* 2019 – **85793** Requisitions
+* 2020 – **66905** Requisitions
+* 2021 – **74310** Requisitions
+* 2022 – **82084** Requisitions
+* 2023 – **86228** Requisitions
+* 2024 – **42728** Requisitions
 
 There is a trend with the number of requisitions processes yearly. 2018 is when Workday was first implemented so the number of requisitions is the lowest for that reason. 2019 is the year where the requisitions were processed the most pre pandemic. There were a lot of students enrolled so departments have the funding to spend their money. Purchasing was busy during that year. 2020 is where everything changed. 2020 has the lowest number of requisitions processed. The reason for that huge decline from 2019 is that the pandemic had occurred. ASU had to basically go online, and the university was almost shut down in many ways. Campus was very empty. Because there were not as many students on campus, departments did not really spend as much of their money. As the pandemic started to subside, there number of requisitions started to increase every single year. 2023 has the most requisitions processed. This is the year where the university felt normal before the pandemic.
 
@@ -261,13 +261,13 @@ There is a trend with the number of requisitions processes yearly. 2018 is when 
 <img width="662" alt="Total Amount of all Requisitions per year since 2018" src="https://github.com/user-attachments/assets/2715378b-6334-47a0-af28-d5a78b13cbc0">
 
  
-* 2018 – $348,200,512.82 All Departments spent around 348 million dollars this year in 2018.
-* 2019 – $727,505,051.34 All Departments spent around 727 million dollars this year in 2019.
-* 2020 – $579,614,994.83 All Departments spent around 580 million dollars this year in 2020.
-* 2021 – $674,442,522.28 All Departments spent around 674 million dollars this year in 2021.
-* 2022 – $840,200,641.57 All Departments spent around 840 million dollars this year in 2022.
-* 2023 – $1,049,170,380.17 All Departments spent around 1 billion dollars this year in 2023.
-* 2024 – $470,047,046.08 All Departments spent around 1 billion dollars this year in 2023.
+* 2018 – **$348,200,512.82** All Departments spent around 348 million dollars this year in 2018.
+* 2019 – **$727,505,051.34** All Departments spent around 727 million dollars this year in 2019.
+* 2020 – **$579,614,994.83** All Departments spent around 580 million dollars this year in 2020.
+* 2021 – **$674,442,522.28** All Departments spent around 674 million dollars this year in 2021.
+* 2022 – **$840,200,641.57** All Departments spent around 840 million dollars this year in 2022.
+* 2023 – **$1,049,170,380.17** All Departments spent around 1 billion dollars this year in 2023.
+* 2024 – **$470,047,046.08** All Departments spent around 470 million dollars this year in 2023.
 
 The trend is just the same as the number of requisitions departments submitted and processed. Department spends lots of money until the pandemic hits in 2020 where ASU is kind of shut down. As the pandemic ends, the spending slowly increases and now in 2023, All departments spend over 1 billion dollars on anything for ASU. I predict all departments will spend even more money in the future.
 Conclusion
@@ -380,9 +380,9 @@ I have processed **72** requisitions of the other requisition types. All the oth
 <img width="755" alt="Total Number of all MY Requisitions per year since 2018" src="https://github.com/user-attachments/assets/76240b8f-610e-4ba3-a1bf-26e81356590a">
 
 
-* 2022 – 2069 requisitions have been processed by me in 2022
-* 2023 – 4068 requisitions have been processed by me in 2023
-* 2024 – 569 requisitions have been processed by me in 2024
+* 2022 – **2069** requisitions have been processed by me in 2022
+* 2023 – **4068** requisitions have been processed by me in 2023
+* 2024 – **569** requisitions have been processed by me in 2024
 
 The trend is that the number of requisitions that I have been processing have increased. As years go on if I still stay in purchasing the number of requisitions that I have processed will plateau and stay close to the same because departments can only submit so many requisitions and I also have more teammates taking on requisitions other than myself.
 
@@ -390,9 +390,9 @@ The trend is that the number of requisitions that I have been processing have in
 
 <img width="665" alt="Total Amount of all of MY Requisitions per year since 2018" src="https://github.com/user-attachments/assets/3b989228-2f3d-483d-b49c-a6915aeff11e">
 
-* 2022 – Departments spent $5,660,838.79 so around 5 million dollars with the requisitions that I have processed in 2022.
-* 2023 – Departments spent $25,666,941.04 so around 25 million dollars with the requisitions that I have processed in 2023.
-* 2024 – Departments spent $11846027.17 so around 25 million dollars with the requisitions that I have processed in 2024.
+* 2022 – Departments spent **$5,660,838.79** so around 5 million dollars with the requisitions that I have processed in 2022.
+* 2023 – Departments spent **$25,666,941.04** so around 25 million dollars with the requisitions that I have processed in 2023.
+* 2024 – Departments spent **$11,846,027.17** so around 12 million dollars with the requisitions that I have processed in 2024.
   
 The trend is that the amounts from the requisitions are increasing every year. In the future the amounts will increase every year since I had taken on higher dollar requisitions.
 
