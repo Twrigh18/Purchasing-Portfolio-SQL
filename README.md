@@ -287,31 +287,31 @@ Since there is no pandemic now, I believe ASU will increase the enrollment. More
  <img width="1103" alt="Total Number of all MY Requisitions since 2018" src="https://github.com/user-attachments/assets/e1bd5115-bd5a-45e9-ab26-934f20f54dd2">
 
 
-I have processed **6,137** requisitions since starting in the ASU purchasing department. That is a lot of requisitions processed. 
+I have processed **6,706** requisitions since starting in the ASU purchasing department. That is a lot of requisitions processed. 
 
 ## What Is the Total Amount of All of the Requisitions I Have Processed Since Starting at ASU ?
 <img width="694" alt="Total Amount of all MY Requisitions since 2018" src="https://github.com/user-attachments/assets/b49d200d-a2d4-4ae5-b12c-efaf8ebc2bfa">
 
 
-Departments spent **$24,898,610.91** so around 25 million dollars with the requisitions that I have processed.
+Departments spent **$43173807.00** so around 25 million dollars with the requisitions that I have processed.
 
 ## How Many Requisitions That I have Processed That are Under $25,000?  
 <img width="1102" alt="Total Number of all of MY Requisitions under $25,000" src="https://github.com/user-attachments/assets/1e23bf58-8499-4059-9d5a-0a6b1ac98cf4">
 
 
-I have processed **5,847** requisitions that are $25,000 and under. These represent most of the department’s purchases. I have move away from processing these the longer I work in purchasing. If I do an under $25,000 requisitions, it would be the oldest one first
+I have processed **6,189** requisitions that are $25,000 and under. These represent most of the department’s purchases. I have move away from processing these the longer I work in purchasing. If I do an under $25,000 requisitions, it would be the oldest one first
 
 ## What Is the Total Amount of All of the Requisitions I Have Processed That are Under $25,000?
 <img width="796" alt="Total Amount of all of MY Requisitions under $25,000" src="https://github.com/user-attachments/assets/b961ee41-57d7-49a7-9adb-24ff16a7430f">
 
 
-Departments spent **$15,952,662.19** on purchases that goes to me under $25,000.
+Departments spent **$16802536.13** on purchases that goes to me under $25,000.
 
 ##  How Many Requisitions That I have Processed That are Over $25,000? 
 <img width="1088" alt="Total Number of all of MY requisitions over $25,000" src="https://github.com/user-attachments/assets/0b42d4cc-c493-4528-a1d7-9214f8e48030">
 
 
-I have processed **290** requisitions over $25,000. High dollars requisitions are more time consuming because they require more documentation and if the purchases use federal money, then even more documentation is needed so that the departments justify their purchase. That involves reaching out to the department to obtain more documentation. Processing high dollar requisitions is the biggest priority for the Strategic Partnerships team in that we get trained in how to do these first before going to low dollar. These requisitions have a steeper learning curve with learning which documentation is needed but are easy to master eventually. The hardest part is making sure departments have the right documentations because they don’t always provide what we wanted.
+I have processed **517** requisitions over $25,000. High dollars requisitions are more time consuming because they require more documentation and if the purchases use federal money, then even more documentation is needed so that the departments justify their purchase. That involves reaching out to the department to obtain more documentation. Processing high dollar requisitions is the biggest priority for the Strategic Partnerships team in that we get trained in how to do these first before going to low dollar. These requisitions have a steeper learning curve with learning which documentation is needed but are easy to master eventually. The hardest part is making sure departments have the right documentations because they don’t always provide what we wanted.
 
 The reason the number is lower because purchasing in general doesn’t get a lot of high dollar requisitions in general. Departments would want a PO generated before creating separate requisitions usually low dollar to pay for invoices in which explains why Purchasing gets so many low dollar requisitions. Also, Strategic Partnerships is a huge team. Including myself there are 6 team members not including higher ups. And the work load gets evenly distributed and everyone in the team knows how to process over $25,000 requisitions. The number of requisitions has increased over time and will continue to increase in the future.
 
@@ -321,7 +321,7 @@ The reason the number is lower because purchasing in general doesn’t get a lot
 
 
 
-Departments spent **$15,375,117.64** on purchases that goes to me over $25,000.
+Departments spent **26371270.87** on purchases that goes to me over $25,000.
 
 ## How Many Requisitions That I have Processed That are Over $100,000?
 <img width="1010" alt="Total Number of all of MY requisitions over $100,000" src="https://github.com/user-attachments/assets/1a2c0084-039b-4665-9f7f-5f15509a22f6">
@@ -335,7 +335,8 @@ I have processed **zero** requisitions that are over $100,000. The reason for th
 The lowest amount I have done on a requestions is **zero** dollars. Those requestions can either be a zero-dollar discount, Attachments or anything written the requisition needs to go to the suppler after the purchase order is generated, an agreement need to be signed and sent to the supplier or an agreement term needs to be extended. 
 
 ## What Is the Requisition Highest Amount I did?
-<img width="714" alt="Requisition Highest Amount I did" src="https://github.com/user-attachments/assets/8f5c2c2d-4d44-445c-a0b6-a3b5266a4391">
+
+<img width="1010" alt="Total Number of all of MY requisitions over $100,000" src="https://github.com/user-attachments/assets/71ed0280-7877-4ce6-84fc-232bd6e403cf">
 
 
 The lowest amount I have done on a requestions is **$100,000** dollars. It is close to $100,000. This is a lot of money. I have seen some requisitions that are exactly $100,000 that reach strategic partnerships. We usually reassign those requisitions to the sourcing team.
@@ -381,7 +382,7 @@ I have processed **72** requisitions of the other requisition types. All the oth
 
 * 2022 – 2069 requisitions have been processed by me in 2022
 * 2023 – 4068 requisitions have been processed by me in 2023
-* 2023 – 4068 requisitions have been processed by me in 2023
+* 2024 – 4068 requisitions have been processed by me in 2023
 
 The trend is that the number of requisitions that I have been processing have increased. As years go on if I still stay in purchasing the number of requisitions that I have processed will plateau and stay close to the same because departments can only submit so many requisitions and I also have more teammates taking on requisitions other than myself.
 
@@ -391,7 +392,7 @@ The trend is that the number of requisitions that I have been processing have in
 
 * 2022 – Departments spent $5,660,838.79 so around 5 million dollars with the requisitions that I have processed in 2022.
 * 2023 – Departments spent $25,666,941.04 so around 25 million dollars with the requisitions that I have processed in 2023.
-* 2023 – Departments spent $25,666,941.04 so around 25 million dollars with the requisitions that I have processed in 2023.
+* 2024 – Departments spent $25,666,941.04 so around 25 million dollars with the requisitions that I have processed in 2023.
   
 The trend is that the amounts from the requisitions are increasing every year. In the future the amounts will increase every year since I had taken on higher dollar requisitions.
 
