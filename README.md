@@ -83,57 +83,63 @@ This was the hardest part of learning SQL. I googled and used AI like ChatGPT a 
 I will be using queries to answer questions. I have created some questions and will answer questions using queries.
 
 ## What is the Total Number of Requisitions Overall ? 
-<img width="914" alt="Requisitions were processed overall since 2018 " src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/acd60545-7741-4800-9114-0ae196d9eb1e">
+<img width="572" alt="Total Number of all Requisitions  since 2018" src="https://github.com/user-attachments/assets/5a9a591c-f024-45e7-b844-d5af24c68397">
+
 
 In the entire purchasing department, **436971** requisitions have been created since 2018. That is a lot of requisitions.
 
 ## What is the Total Amounts of All Requisitions Overall?
-<img width="946" alt="Total amount of all the requisitions that were processed " src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/0ac38ed0-d184-4ee1-a544-6c9cd3ec3e5b">
+<img width="567" alt="Total Amount of all Requisitions since 2018" src="https://github.com/user-attachments/assets/92cf7161-41b7-4126-bf0a-a08719a5149d">
+
 
 The amount from all the requisitions adds up to a total of **$4,219,119,102.87**. So, all departments at ASU spent a total of around 4 billion dollars since the start of fiscal year 2018.
 
 ## How Many Requisitions Were Processed Under $25,000 ?
-<img width="1145" alt="Total Number of all Requisitions under $25,000 " src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/b957d8a6-c014-4bda-b5ff-da7db745a189">
+<img width="1140" alt="Total Number of all Requisitions under $25,000" src="https://github.com/user-attachments/assets/fa0a5ecd-ee78-4f70-a776-42303413b446">
+
 
 All Departments submitted **421,945** requisitions that were under $25,000. These requisitions are easy in that they need less documentation so these can be processed very quickly. These take up most of the requisitions overall.
 
 ## What is The Total Amount of All Requisitions Under $25,000 ?
-<img width="802" alt="Total Amount of All Requisitions under $25,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/160911f7-8809-4f7e-aae6-5198af806eea">
+
 
 Departments spent around **$638,388,640.23** on orders that are under $25,000.
 
 ## How Many Requisitions were Processed Over $25,000 ?
-<img width="1184" alt="Total Number of all Requisitions over $25,000 " src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/585e00be-ee23-4dd0-930a-d4c5ee20f32c">
+<img width="1175" alt="Total Number of all requisitions over $25,000" src="https://github.com/user-attachments/assets/e304b72f-feec-4c5d-aa4e-5f536bd09760">
+
 
 All Departments submitted **15,026** requisitions that were over $25,000. Do not let the small number fool you. These orders require more documentation, so these require us to wait for the department to reach back out for the required documentation. These even take longer if the requisitions use federal funding. These take longer to do.
 
 ## What Is the Total Amount of All Requisitions Over $25,000 ?
-<img width="803" alt="Total Amount of All Requisitions over $25,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/2bba05f4-3985-4b81-bcd8-1e5db309005a">
+
 
 Departments spent around **$3,580,730,462.64** on orders that are over $25,000.
 
 ## How Many Requisitions were Processed between $25,000 and $100,000 ?
-<img width="1166" alt="Total Amount of All Requisitions bwt" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/95cceeab-d3e6-4234-ae05-9a0f61ee2ebd">
+
 
 All Departments submitted **10902** requisitions that were between $25,000 and $100,000. Strategic Partnerships always process these orders, and these are orders that we should always learn and get better at these. They require more documentation and waiting so these most of the time cannot be processed right away so there is a lot of waiting. These are the types of requisitions Strategic Partnerships always prioritizes. MRO teams sometimes do these amounts. The sourcing team never do this amount since they are over $100,000 and rarely construction team process these requisitions.
 
 ## How Many Requisitions were Processed Over $100,000 ?
-<img width="1172" alt="Total Number of all Requisitions over $100,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/e18d2920-c7fa-4920-a641-3fe83957782f">
+<img width="1178" alt="Total Number of all requisitions over $100,000" src="https://github.com/user-attachments/assets/b104914a-86b6-42cd-bb26-1a42cba273bb">
+
  
 All Departments submitted **4,194** requisitions that were over $100,000. These requisitions require suppliers that have formal solicitations or have a sole source. Departments really have to check if an order is going to go over $100,000
 
 ## What Is the Total Amount of All Requisitions Over $100,000 ?
-<img width="790" alt="Total Amount of All Requisitions over $100,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/2d39745a-535d-418d-8be8-fcb0b764a266">
+
 
 Departments spent around **$3,045,686,758.52** on orders that are over $100,000.
 
 ## How Many Requisitions were Processed Over $1,000,000 ?
-<img width="1167" alt="Total Number of all Requisitions over $1,000,000 " src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/570a5d30-63be-4a1d-807d-8d57f2976e87">
+<img width="1172" alt="Total Number of all requisitions over $1,000,000" src="https://github.com/user-attachments/assets/a6cc765b-849a-4368-9c15-01dde76cbf89">
+
 
 All Departments submitted **379** requisitions that were over $1,000,000. These are treated as requisitions over $100,000. This is a lot of many so purchasing must be careful and not make any mistakes on these purchases.
 
 ## What Is the Total Amount of All Requisitions Over $1,000,000 ?
-<img width="788" alt="Total Amount of All Requisitions over $1,000,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/8e127586-8ef0-48fa-a323-f73c472a451b">
+
  
 Departments spent around **$2,031,538,576.88** on orders that are over $1,000,000.
 
@@ -158,67 +164,68 @@ The highest amount on a requisition is **$139,066,673**. That is a lot of money 
 This requisition is for construction services for the new building lab called Interdisciplinary Science and Technology Building (ISTB 12) at the Polytechnic campus. There is probably lots of fancy lab equipment that needs to be installed. Anything with science orders is more expensive.
 
 ## What is the Average Total Amount of Requisitions Overall ?
-<img width="699" alt="Average Total Amount Of All Requisitions Overall" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/001379b4-dde4-417f-9a94-b93a76ea4901">
+<img width="672" alt="Average Total Amount of Requisitions Overall " src="https://github.com/user-attachments/assets/5dc020d4-84fb-4a8f-8947-4df1a8c320d7">
+
 
 Is around **$9655.38**. This proves most requisitions are low dollar.
 
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Goods and Services ?
-<img width="1177" alt="Total Number of Requisitions that used Goods and Services" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/dd86c0f3-8a80-470a-9e02-63951c83033e">
+
  
 Departments have submitted around **309,641** requisitions totaling around $2,137,782,764.41 that uses the requisition type of Goods and Services. This is an important requisition type. This requisition type generates a purchase order after a requisition gets approved to go to supplier as a contract and the supplier automatically accepts ASU terms and conditions. When a supplier disagrees with some or all of the ASU terms and conditions in the PO, the supplier will create a contracts with their terms and conditions and purchasing will sign off adding ASU terms and conditions and if the supplier still disagrees, the contracts team will specialize in negotiations of the contracts. The purchase order protects ASU and departments if the orders or services go wrong. The total amount for each requisition type is from a query that is coming up.
 
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Technology ?
-<img width="1178" alt="Total Number of Requisitions that used Technology" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/7f876368-d5a5-4d7c-8d3d-4d04d3930561">
+
  
 Departments have submitted around **30,087** requisitions totaling around $593,431,625.50 that uses the requisition type of Technology. Technology operates the same way as using Goods and Services. What makes this requisition type different is that these require security review so these will be provided in requisition before or after approval but are provided before the orders need payment. Pay an invoice of technology purchases has a security review alert so the orders get counted under the requisition type of Pay an Invoice. Sometimes these orders will have suppliers wanting subscription agreements signed so the purchasing department must be very careful with what they agree to because their amounts are more, they have terms for 1 to the max of 5 years and many more supplier terms and conditions. Subscription contracts are the contracts that purchasing must be the most careful on.
 
 ## How Many Requisitions and Their Total Amounts Used the Requisition Type of Pay an Invoice ?
- <img width="1097" alt="Total Number of Requisitions that used Pay an Invoice" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/d3990f65-b093-4ac6-b370-0a30b1ccbfe9">
+
 
 Departments have submitted around **58,498** requisitions totaling around $353,743,777.07 that uses the requisition type of Pay an Invoice. Pay in Invoice is used when a service is done after the fact and the services needed to get paid. In the past, there were many departments that would skip over to using Pay an Invoice used of using Goods and Services generating a PO. This is an issue because if the supplier has any issues, they can point to the PO, but if the PO is not there, then that is on the department. We always want departments for us to generate the PO before creating  a requisition to pay an invoice.
 
 ## How Many Requisitions and Their Total Amounts Used Many Requisition Types Instead of the Ones Mentioned Above ?
-<img width="1182" alt="Total Number of Requisitions that used other Requsition Type" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/9d74f749-7350-4e81-9845-3dab73337895">
+
  
 Departments have submitted around **38,745** requisitions totaling around $1,134,160,935.89 that uses the requisition types other than Goods and Services, Pay an Invoice, and technology. Construction and MRO team are the ones that use the other requisition types. My team in strategic partnerships will rarely use the Chemical requisition type and those get routed to materials management after approval. The department chooses a requisition type based on the purchases and that requisition will route to a purchasing team based on the requisition type. Departments should always reach out to purchasing if they are not too sure if the requisition type is the right one.
 
 ## How Many Requisitions Used the Requisition Type of Pay an Invoice with the Requestors That Start With the Letter J ? 
-<img width="1103" alt="Number of reqs that used the requisition type of Pay an Invoice with the requestors that start with the letter J," src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/746c98bd-0077-4e4e-961e-967f4aedeae5">
+
  
 There were **5019** Requisitions were processed answering this question
 
 ## How Many Requisitions Used the Requisition Type of Goods and Services with the Requestors That Start with the letter L and the Requisition Amounts That Are Over $25,000 ?
-<img width="1108" alt="Number of reqs that used the requisition type of Goods and Services with the requestors that start with L and the requisition amounts that are over $25,000" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/2cdaf561-08cd-461b-b921-a49dd2aaf46e">
+
  
 There were **697** Requisitions were processed answering this question
 
 ## How Many Requisitions Used the Requisition Type of Technology with the Requestors That Start with the Letters T, S, C, or P and the Requisition Amounts That Are Over $25,000 ? 
-<img width="1180" alt="Number of reqs that used the longest question" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/b606dca5-00ac-4173-8fb8-a3f607c72804">
+
 
 There were **72019** Requisitions that were processed answering this question
 
 ## What are the Different Types of Requisition Types Being Used ?
-<img width="524" alt="How many different types of Requisition Types being used" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/407a5d02-9d9f-4474-ad01-0b2205131b76">
+
 
 There are **17** different types of Requisition type is displayed in a table
 
 ## What are the Top 17 Requisition Types by Count from Largest to Smallest with Their Total Amounts Included not in Order ?
-<img width="966" alt="Different Req types total number of reqs and amount with number in descending order" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/33f90790-dd8f-47d5-a84c-5bc7c369736d">
+
  
 The results match some of the questions of finding how many requisitions were processed using different Requisition Types. The Top 3 Requisition Types by count are Goods and Services, Pay an Invoice, and Technology. My team strategic partnerships and the sourcing team deals with these requisition types the most on a daily basis. MRO team deals with non-stock facilities and inventory replenishment. Chemical and Specialty Gas goes to materials management. Construction team deals with the rest and those require different documentations and requirements based on the purchase
 
 ## What are the Top 17 Requisition Type Total Amounts from Largest to Smallest with Their Total Number of Requisitions Included not in Order ?
-<img width="914" alt="Different Req types total number of reqs and amount with amount in descending order" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/ca4e2b82-1e9f-4007-a18d-15aaac047697">
+
  
 Goods and Services is on the top since this a requisition type department should always use to generate PO before using Pay in Invoice to pay for the purchase. Many requisition types start appearing near the top that deal with construction due to the nature of their purchases. These purchases absolutely need a Purchase Order generated in order to protect the departments especially with how expensive these purchases order.
 
 ## What are the Top Requestors by the Total Number of Requisitions Submitted using HAVING clause?
-<img width="580" alt="Top Number of Requestors and the number of requstions they submitted" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/ae6803d0-2fc5-48e4-94ce-c749a590bda5">
+
  
 There are **4875** different Requesters purchasing dealt with since 2018. They represent different departments across ASU such as SDA, President’s Office, Ira Fulton, WP Carey, Mary Lou, CPMG, Materials Management and many more. The top one works in Materials Management. It is some materials management, but the rest are a variety of departments. Purchasing knows these names by repetition since their titles do not appear in Workday. We must search for their emails personally. It is cool to see what type of order different departments do.
 
 ## What is the Total Number of Requisitions per year since 2018 ?
-<img width="777" alt="Total Number of all Requisitions per year since 2018" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/e1443796-1286-4c3f-9794-863157e77981">
+
  
 * 2018 – 41652 Requisitions
 * 2019 – 85793 Requisitions
@@ -230,7 +237,7 @@ There are **4875** different Requesters purchasing dealt with since 2018. They r
 There is a trend with the number of requisitions processes yearly. 2018 is when Workday was first implemented so the number of requisitions is the lowest for that reason. 2019 is the year where the requisitions were processed the most pre pandemic. There were a lot of students enrolled so departments have the funding to spend their money. Purchasing was busy during that year. 2020 is where everything changed. 2020 has the lowest number of requisitions processed. The reason for that huge decline from 2019 is that the pandemic had occurred. ASU had to basically go online, and the university was almost shut down in many ways. Campus was very empty. Because there were not as many students on campus, departments did not really spend as much of their money. As the pandemic started to subside, there number of requisitions started to increase every single year. 2023 has the most requisitions processed. This is the year where the university felt normal before the pandemic.
 
 ## What is the Total Amount of all Requisitions per year since 2018 ?
-<img width="791" alt="Total Amount of all Requisitions per year since 2018" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/f5d1ea91-710a-4329-8816-8108f091ab00">
+
  
 * 2018 – $348,200,512.82 All Departments spent around 348 million dollars this year in 2018.
 * 2019 – $727,505,051.34 All Departments spent around 727 million dollars this year in 2019.
