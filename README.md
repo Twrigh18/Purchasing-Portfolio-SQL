@@ -251,8 +251,9 @@ There are **4875** different Requesters purchasing dealt with since 2018. They r
 * 2019 – 85793 Requisitions
 * 2020 – 66905 Requisitions
 * 2021 – 74310 Requisitions
-* 2022 – 82086 Requisitions
-* 2023 – 86227 Requisitions
+* 2022 – 82084 Requisitions
+* 2023 – 86228 Requisitions
+* 2024 – 42728 Requisitions
 
 There is a trend with the number of requisitions processes yearly. 2018 is when Workday was first implemented so the number of requisitions is the lowest for that reason. 2019 is the year where the requisitions were processed the most pre pandemic. There were a lot of students enrolled so departments have the funding to spend their money. Purchasing was busy during that year. 2020 is where everything changed. 2020 has the lowest number of requisitions processed. The reason for that huge decline from 2019 is that the pandemic had occurred. ASU had to basically go online, and the university was almost shut down in many ways. Campus was very empty. Because there were not as many students on campus, departments did not really spend as much of their money. As the pandemic started to subside, there number of requisitions started to increase every single year. 2023 has the most requisitions processed. This is the year where the university felt normal before the pandemic.
 
