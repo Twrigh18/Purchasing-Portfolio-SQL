@@ -120,6 +120,7 @@ Departments spent around **$3,580,730,462.64** on orders that are over $25,000.
 
 ## How Many Requisitions were Processed between $25,000 and $100,000 ?
 
+<img width="1195" alt="Total Number of all requisitions between $25,000 and $100,000" src="https://github.com/user-attachments/assets/1f7df74e-49c6-46f2-9e0a-f05e1859b3c0">
 
 All Departments submitted **10902** requisitions that were between $25,000 and $100,000. Strategic Partnerships always process these orders, and these are orders that we should always learn and get better at these. They require more documentation and waiting so these most of the time cannot be processed right away so there is a lot of waiting. These are the types of requisitions Strategic Partnerships always prioritizes. MRO teams sometimes do these amounts. The sourcing team never do this amount since they are over $100,000 and rarely construction team process these requisitions.
 
