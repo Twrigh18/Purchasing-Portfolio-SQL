@@ -149,7 +149,7 @@ Departments spent around **$2,031,538,576.88** on orders that are over $1,000,00
 The lowest amount on a requisition is **-11.96** or around **-$12 dollars**. This means that the requisition had so many discounts to the point where the supplier gave back the department 12 dollars.
 
 ## What Kind of Requisition Is the Lowest Amount ?
-<img width="934" alt="Requisition Lowest Amount" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/79eddcf6-c3ea-4ed2-96c6-5f98c6cb4091">
+
 
 This is a pay an invoice requisition. From pulling this up in Workday. This requisition is textbook purchases for student athletes each team like Football Basketball Baseball etc. for SDA. There were around 13 discounts out of 21 different teams that had textbook purchases for student athletes that made the total on the requisition around -12 dollars. Note this is the only requisition with a negative amount.
 
