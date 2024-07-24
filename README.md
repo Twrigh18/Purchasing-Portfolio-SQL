@@ -244,6 +244,12 @@ Goods and Services is on the top since this a requisition type department should
 
 There are **4875** different Requesters purchasing dealt with since 2018. They represent different departments across ASU such as SDA, President’s Office, Ira Fulton, WP Carey, Mary Lou, CPMG, Materials Management and many more. The top one works in Materials Management. It is some materials management, but the rest are a variety of departments. Purchasing knows these names by repetition since their titles do not appear in Workday. We must search for their emails personally. It is cool to see what type of order different departments do.
 
+## How Many Requisitions Went to the Purchasing Department since 2018 ?
+
+<img width="1193" alt="Total Number of all Requisitions that went purchasing since 2018" src="https://github.com/user-attachments/assets/a5f36968-161d-4a32-9ad7-20fc13fec7ef">
+
+84363 reqs went to and were procressed by purchasing. This shows not all requisitons go to purchasing. SOme suppliers are setup a certain way weere department orders dso not get routed to pourchasing. 400,000 reqs would be too much works for purchasing to handle
+
 ## What is the Total Number of Requisitions per year since 2018 ?
 
 <img width="788" alt="Total Number of all Requisitions per year since 2018" src="https://github.com/user-attachments/assets/598dadae-7bad-42a9-aaa7-0603fcc6eab3">
