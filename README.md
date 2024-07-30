@@ -242,13 +242,13 @@ Goods and Services is on the top since this a requisition type department should
 
 <img width="661" alt="Number of Reqs Requesters submitted" src="https://github.com/user-attachments/assets/b3488153-7ed0-4900-ae4a-4e490727d9b8">
 
-There are **4875** different Requesters purchasing dealt with since 2018. They represent different departments across ASU such as SDA, President’s Office, Ira Fulton, WP Carey, Mary Lou, CPMG, Materials Management and many more. The top one works in Materials Management. It is some materials management, but the rest are a variety of departments. Purchasing knows these names by repetition since their titles do not appear in Workday. We must search for their emails personally. It is cool to see what type of order different departments do.
+There are **5248** different Requesters purchasing dealt with since 2018. They represent different departments across ASU such as SDA, President’s Office, Ira Fulton, WP Carey, Mary Lou, CPMG, Materials Management and many more. The top one works in Materials Management. It is some materials management, but the rest are a variety of departments. Purchasing knows these names by repetition since their titles do not appear in Workday. We must search for their emails personally. It is cool to see what type of order different departments do.
 
 ## How Many Requisitions Went to the Purchasing Department since 2018 ?
 
 <img width="1193" alt="Total Number of all Requisitions that went purchasing since 2018" src="https://github.com/user-attachments/assets/a5f36968-161d-4a32-9ad7-20fc13fec7ef">
 
-84363 reqs went to and were procressed by purchasing. This shows not all requisitons go to purchasing. SOme suppliers are setup a certain way weere department orders dso not get routed to pourchasing. 400,000 reqs would be too much works for purchasing to handle
+**84363** requisitions went to and were processed by purchasing. This shows not all requisitions go to purchasing. Some suppliers are set up a certain way where department orders do not get routed to purchasing which is called a catalog or punchout order. This only happens when a supplier has a contract with ASU and has gone through the RFP process. 400,000 requisitions would be too much for purchasing to handle so it is the best to get as many suppliers as possible to have a contract and RFP with ASU to make the purchasing process much easier..
 
 ## What is the Total Number of Requisitions per year since 2018 ?
 
