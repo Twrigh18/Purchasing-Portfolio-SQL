@@ -248,7 +248,27 @@ There are **5248** different Requesters purchasing dealt with since 2018. They r
 
 <img width="1193" alt="Total Number of all Requisitions that went purchasing since 2018" src="https://github.com/user-attachments/assets/a5f36968-161d-4a32-9ad7-20fc13fec7ef">
 
-**84363** requisitions went to and were processed by purchasing. This shows not all requisitions go to purchasing. Some suppliers are set up a certain way where department orders do not get routed to purchasing which is called a catalog or punchout order. This only happens when a supplier has a contract with ASU and has gone through the RFP process. 400,000 requisitions would be too much for purchasing to handle so it is the best to get as many suppliers as possible to have a contract and RFP with ASU to make the purchasing process much easier..
+**84363** requisitions went to and were processed by purchasing. This shows not all requisitions go to purchasing. Some suppliers are set up a certain way where department orders do not get routed to purchasing which is called a catalog or punchout order. This only happens when a supplier has a contract with ASU and has gone through the RFP process. 400,000 requisitions would be too much for purchasing to handle so it is the best to get as many suppliers as possible to have a contract and RFP with ASU to make the purchasing process much easier.
+
+## What Are Some Busy Months for Purchasing by Year
+
+<img width="555" alt="Total Number of requisitions by month per year 2018" src="https://github.com/user-attachments/assets/05030087-2e71-449c-9b32-a0621ea8462b">
+<img width="341" alt="Total Number of requisitions by month per year 2019" src="https://github.com/user-attachments/assets/e1faa938-cbe5-423e-bffb-7a2a52645bc5">
+<img width="343" alt="Total Number of requisitions by month per year 2020" src="https://github.com/user-attachments/assets/7696ad19-0439-4a60-aada-023c208faa0e">
+<img width="341" alt="Total Number of requisitions by month per year 2021" src="https://github.com/user-attachments/assets/4d2564da-b556-4e32-9b7d-41a32f7fd3e1">
+<img width="341" alt="Total Number of requisitions by month per year 2022" src="https://github.com/user-attachments/assets/b10ea027-352e-45c6-8235-38851cf18625">
+<img width="344" alt="Total Number of requisitions by month per year 2023" src="https://github.com/user-attachments/assets/a7affc27-4275-4483-a9de-ffed22fb53a6">
+<img width="340" alt="Total Number of requisitions by month per year 2024" src="https://github.com/user-attachments/assets/502371d9-18c4-459b-b6bd-333b1f44a27b">
+
+This shows how busy it is for both departments and purchasing. It gives an idea of when all departments are likely to purchase things. All the other months vary depending on any department’s needs.
+
+The busiest month is late summer which is the month July, August, and September. The reason is that it is the start of the new fiscal year. So, departments create requisitions for a purchase order to be issued for a contract to be made with the supplier so the departments can pay the supplier invoices later using a pay an invoice requisition. It would be about every single department creating requisitions for those to get approved by purchasing the amount of requisitions that reach purchasing during the new fiscal year is enormous. Another reason is that departments spend money on stuff needed for the new school year. 
+
+The least busy months are December and June. The reason for December is because departments would have already been purchasing things needed for the spring school year so it would be departments trying to pay invoices and most of the faculty is and staff will be on holidays and some days the university would be closed so there is less staff at the University during the month of December. The reason for June is the end of a fiscal year overall. Departments want to issue new purchase orders for the new fiscal year but they are unable to do it until the first day of July and departments are busy doing whatever the need to do for financial wise year end, so they are less likely to create requisitions during the month of June. 
+
+
+
+
 
 ## What is the Total Number of Requisitions per year since 2018 ?
 
