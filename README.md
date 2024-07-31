@@ -270,13 +270,13 @@ The least busy months are December and June. The reason for December is because 
 
 <img width="788" alt="Total Number of all Requisitions per year since 2018" src="https://github.com/user-attachments/assets/598dadae-7bad-42a9-aaa7-0603fcc6eab3">
 
-* 2018 – **41652** Requisitions
-* 2019 – **85793** Requisitions
-* 2020 – **66905** Requisitions
-* 2021 – **74310** Requisitions
-* 2022 – **82084** Requisitions
-* 2023 – **86228** Requisitions
-* 2024 – **42728** Requisitions
+* 2018 – **41,652** Requisitions
+* 2019 – **85,793** Requisitions
+* 2020 – **66,905** Requisitions
+* 2021 – **74,310** Requisitions
+* 2022 – **82,084** Requisitions
+* 2023 – **86,228** Requisitions
+* 2024 – **42,728** Requisitions
 
 There is a trend with the number of requisitions processes yearly. 2018 is when Workday was first implemented so the number of requisitions is the lowest for that reason. 2019 is the year where the requisitions were processed the most pre pandemic. There were a lot of students enrolled so departments have the funding to spend their money. Purchasing was busy during that year. 2020 is where everything changed. 2020 has the lowest number of requisitions processed. The reason for that huge decline from 2019 is that the pandemic had occurred. ASU had to basically go online, and the university was almost shut down in many ways. Campus was very empty. Because there were not as many students on campus, departments did not really spend as much of their money. As the pandemic started to subside, there number of requisitions started to increase every single year. 2023 has the most requisitions processed. This is the year where the university felt normal before the pandemic.
 
