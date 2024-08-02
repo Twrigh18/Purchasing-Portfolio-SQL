@@ -242,13 +242,13 @@ Goods and Services is on the top since this a requisition type department should
 
 <img width="661" alt="Number of Reqs Requesters submitted" src="https://github.com/user-attachments/assets/b3488153-7ed0-4900-ae4a-4e490727d9b8">
 
-There are **5248** different Requesters purchasing dealt with since 2018. They represent different departments across ASU such as SDA, President’s Office, Ira Fulton, WP Carey, Mary Lou, CPMG, Materials Management and many more. The top one works in Materials Management. It is some materials management, but the rest are a variety of departments. Purchasing knows these names by repetition since their titles do not appear in Workday. We must search for their emails personally. It is cool to see what type of order different departments do.
+There are **5,248** different Requesters purchasing dealt with since 2018. They represent different departments across ASU such as SDA, President’s Office, Ira Fulton, WP Carey, Mary Lou, CPMG, Materials Management and many more. The top one works in Materials Management. It is some materials management, but the rest are a variety of departments. Purchasing knows these names by repetition since their titles do not appear in Workday. We must search for their emails personally. It is cool to see what type of order different departments do.
 
 ## How Many Requisitions Went to the Purchasing Department since 2018 ?
 
 <img width="1193" alt="Total Number of all Requisitions that went purchasing since 2018" src="https://github.com/user-attachments/assets/a5f36968-161d-4a32-9ad7-20fc13fec7ef">
 
-**84363** requisitions went to and were processed by purchasing. This shows not all requisitions go to purchasing. Some suppliers are set up a certain way where department orders do not get routed to purchasing which is called a catalog or punchout order. This only happens when a supplier has a contract with ASU and has gone through the RFP process. 400,000 requisitions would be too much for purchasing to handle so it is the best to get as many suppliers as possible to have a contract and RFP with ASU to make the purchasing process much easier.
+**84,363** requisitions went to and were processed by purchasing. This shows not all requisitions go to purchasing. Some suppliers are set up a certain way where department orders do not get routed to purchasing which is called a catalog or punchout order. This only happens when a supplier has a contract with ASU and has gone through the RFP process. 400,000 requisitions would be too much for purchasing to handle so it is the best to get as many suppliers as possible to have a contract and RFP with ASU to make the purchasing process much easier.
 
 ## What Are Some Busy Months for Purchasing by Year
 
@@ -307,7 +307,7 @@ I have processed **6,706** requisitions since starting in the ASU purchasing dep
 
 <img width="694" alt="Total Amount of all MY Requisitions since 2018" src="https://github.com/user-attachments/assets/b49d200d-a2d4-4ae5-b12c-efaf8ebc2bfa">
 
-Departments spent **$43173807.00** so around 25 million dollars with the requisitions that I have processed.
+Departments spent **$43,173,807.00** so around 43 million dollars with the requisitions that I have processed.
 
 ## How Many Requisitions That I have Processed That are Under $25,000?  
 
@@ -319,7 +319,7 @@ I have processed **6,189** requisitions that are $25,000 and under. These repres
 
 <img width="796" alt="Total Amount of all of MY Requisitions under $25,000" src="https://github.com/user-attachments/assets/b961ee41-57d7-49a7-9adb-24ff16a7430f">
 
-Departments spent **$16802536.13** on purchases that goes to me under $25,000.
+Departments spent **$16,802,536.13** on purchases that goes to me under $25,000.
 
 ##  How Many Requisitions That I have Processed That are Over $25,000? 
 
@@ -333,7 +333,7 @@ The reason the number is lower because purchasing in general doesn’t get a lot
 
 <img width="750" alt="Total Amount of all of MY requisitions over $25,000" src="https://github.com/user-attachments/assets/2a706543-586f-4de6-89c2-95beaed3339a">
 
-Departments spent **26371270.87** on purchases that goes to me over $25,000.
+Departments spent **$26,371,270.87** on purchases that goes to me over $25,000.
 
 ## How Many Requisitions That I have Processed That are Over $100,000?
 
@@ -351,7 +351,7 @@ The lowest amount I have done on a requestions is **zero** dollars. Those reques
 
 <img width="1010" alt="Total Number of all of MY requisitions over $100,000" src="https://github.com/user-attachments/assets/71ed0280-7877-4ce6-84fc-232bd6e403cf">
 
-The lowest amount I have done on a requestions is **$100,000** dollars. It is close to $100,000. This is a lot of money. I have seen some requisitions that are exactly $100,000 that reach strategic partnerships. We usually reassign those requisitions to the sourcing team.
+The lowest amount I have done on a requestions is **$100,000** dollars. This is a lot of money. I have seen some requisitions that are exactly $100,000 that reach strategic partnerships. We usually reassign those requisitions to the sourcing team unless noted.
 
 ## What is the Average Total Amount of Requisitions Overall I did ?
 
@@ -363,7 +363,7 @@ The average amount I did on requisitions is around **$6,438.09**. This proves a 
 
 <img width="1112" alt="Total Number of MY Requisitions that used Goods and Services" src="https://github.com/user-attachments/assets/aae5d39f-e682-45c3-81dd-414889540b1b">
 
-For the Purchasing Department to generate purchase orders that is needed to go to the supplier that automatically accepts ASU terms and conditions in order to be used as a contract, departments will choose the requisition types of Goods and Services, Chemical, or Technology. I generated **1103** Purchase Orders from requisitions that use Goods and Services. Strategic Partnerships don’t get as much requisitions that uses goods and services because departments will sometimes want to purchase to issue Purchase Orders that are of high dollar amounts and then want to pay for each of the goods and services separately with the requisition type of Pay an Invoice.
+For the Purchasing Department to generate purchase orders that is needed to go to the supplier that automatically accepts ASU terms and conditions in order to be used as a contract, departments will choose the requisition types of Goods and Services, Chemical, or Technology. I generated **1,103** Purchase Orders from requisitions that use Goods and Services. Strategic Partnerships don’t get as much requisitions that uses goods and services because departments will sometimes want to purchase to issue Purchase Orders that are of high dollar amounts and then want to pay for each of the goods and services separately with the requisition type of Pay an Invoice.
 
 ## How Many Requisitions I Have Processed That Used the Requisition Type of Technology?
 
@@ -387,9 +387,9 @@ I have processed **72** requisitions of the other requisition types. All the oth
 
 <img width="755" alt="Total Number of all MY Requisitions per year since 2018" src="https://github.com/user-attachments/assets/76240b8f-610e-4ba3-a1bf-26e81356590a">
 
-* 2022 – **2069** requisitions have been processed by me in 2022
-* 2023 – **4068** requisitions have been processed by me in 2023
-* 2024 – **569** requisitions have been processed by me in 2024
+* 2022 – **2,069** requisitions have been processed by me in 2022
+* 2023 – **4,068** requisitions have been processed by me in 2023
+* 2024 – **5,69** requisitions have been processed by me in 2024
 
 The trend is that the number of requisitions that I have been processing have increased. As years go on if I still stay in purchasing the number of requisitions that I have processed will plateau and stay close to the same because departments can only submit so many requisitions and I also have more teammates taking on requisitions other than myself.
 
