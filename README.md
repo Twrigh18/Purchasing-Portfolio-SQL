@@ -110,7 +110,7 @@ Departments spent around **$702,508,727.80** on orders that are under $25,000.
 
 <img width="1175" alt="Total Number of all requisitions over $25,000" src="https://github.com/user-attachments/assets/e304b72f-feec-4c5d-aa4e-5f536bd09760">
 
-All Departments submitted **16,452** requisitions that were over $25,000. Do not let the small number fool you. These orders require more documentation, so these require us to wait for the department to reach back out for the required documentation. These even take longer if the requisitions use federal funding. These take longer to do.
+All Departments submitted **16,452** requisitions that were over $25,000. Do not let the small number fool you. These orders require more documentation, so these require us to wait for the department to reach back out for the required documentation. Purchases that are over $25,000 have public bidding requirements. They require multiple quotes to determine the price is fair and reasonable. We want departments to get one or more quotes from different suppliers for the same good/service they are purchasing and compare them and for them to choose the lowest cost supplier. When a department wants to go with a higher cost supplier or they are unable to obtain another quote, they fill out a form explaining why they choose the supplier. That is how departments meet bidding requirements.
 
 ## What Is the Total Amount of All Requisitions Over $25,000 ?
 
