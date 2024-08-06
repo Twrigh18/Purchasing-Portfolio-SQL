@@ -98,7 +98,7 @@ The amount from all the requisitions adds up to a total of **$4,689,165,959.68**
 
 <img width="1140" alt="Total Number of all Requisitions under $25,000" src="https://github.com/user-attachments/assets/fa0a5ecd-ee78-4f70-a776-42303413b446">
 
-All Departments submitted **463,248** requisitions that were under $25,000. These requisitions are easy in that they need less documentation so these can be processed very quickly. These take up most of the requisitions overall.
+All Departments submitted **463,248** requisitions that were under $25,000. These requisitions are easy in that they need less documentation so these can be processed very quickly. These take up most of the requisitions overall. Purchases that are $25,000 or less do not require multiple quotes if the department determines the price of their purchase is fair and reasonable. This means a department can choose one supplier for their purchase and make sure they have the documentation needed depending on the purchase.
 
 ## What is The Total Amount of All Requisitions Under $25,000 ?
 
