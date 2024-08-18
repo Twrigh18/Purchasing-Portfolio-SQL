@@ -51,7 +51,7 @@ The final step is to convert the Excel Worksheet into CSV UTF-8. I went and save
 End Result of the Requisition Report as a CSV UTF-8 File
 <img width="982" alt="Sample of Original Report Pulled from Workday after cleaning and coverted to CSV UTF 8" src="https://github.com/Twrigh18/Purchasing-Portfolio-SQL/assets/97319435/838a7c9f-427c-4de1-b175-64dbf52ce891">
  
-This file will be used to import into the SQL Database
+This file will be used to import into the SQL Database maintaining data integrity and efficiency.
 
 ## Importing the data
 SQL Lite is being used for this report. This is what SQLite looks like when it is opened.
