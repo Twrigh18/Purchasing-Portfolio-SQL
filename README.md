@@ -411,6 +411,7 @@ The trend is that the number of requisitions that I have been processing have in
 The trend is that the amounts from the requisitions are increasing every year. In the future the amounts will increase every year since I had taken on higher dollar requisitions.
 
 ## How to get the Requstions Data for importingh into a data visualization tool (Not edited in word yet)
+<img width="896" alt="Purchasing Data with cleaner column names" src="https://github.com/user-attachments/assets/8d1d4432-d6a9-4430-b62d-d56a00616ae8">
 
 For this one I exported it as a csv file and I opened PowerBI and I imported the CSV File so the data can be visualizaed. If you want to see the visualization itself. Use the portflolio link below:
 https://github.com/Twrigh18/Purchasing-Portfolio-PowerBI/blob/main/README.md
