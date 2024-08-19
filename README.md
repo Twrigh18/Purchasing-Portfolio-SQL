@@ -396,7 +396,7 @@ I have processed **72** requisitions of the other requisition types. All the oth
 
 * 2022 – **2,069** requisitions have been processed by me in 2022
 * 2023 – **4,068** requisitions have been processed by me in 2023
-* 2024 – **5,69** requisitions have been processed by me in 2024
+* 2024 – **569** requisitions have been processed by me in 2024
 
 The trend is that the number of requisitions that I have been processing have increased. As years go on if I still stay in purchasing the number of requisitions that I have processed will plateau and stay close to the same because departments can only submit so many requisitions and I also have more teammates taking on requisitions other than myself.
 
@@ -410,10 +410,11 @@ The trend is that the number of requisitions that I have been processing have in
   
 The trend is that the amounts from the requisitions are increasing every year. In the future the amounts will increase every year since I had taken on higher dollar requisitions.
 
-## How to get the Requstions Data for importingh into a data visualization tool (Not edited in word yet)
+## How To Obtain the Data from SQL into a Data Visualization Tool
+
 <img width="896" alt="Purchasing Data with cleaner column names" src="https://github.com/user-attachments/assets/8d1d4432-d6a9-4430-b62d-d56a00616ae8">
 
-For this one I exported it as a csv file and I opened PowerBI and I imported the CSV File so the data can be visualizaed. If you want to see the visualization itself. Use the portflolio link below:
+For this one, I used a query to make the column names easy to ready then I exported it as a csv file, and then I opened Microsoft Power BI, and I imported the CSV File so the data can be visualized. If you want to see the visualization itself. Use the portfolio link below:
 https://github.com/Twrigh18/Purchasing-Portfolio-PowerBI/blob/main/README.md
 
 # Conclusion
